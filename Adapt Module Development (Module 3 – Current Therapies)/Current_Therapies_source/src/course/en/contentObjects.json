@@ -1,0 +1,473 @@
+[
+  {
+    "_id": "co-how-to",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "_isOptional": true,
+    "title": "How to Use This Module",
+    "displayTitle": "How to Use This Module",
+    "body": "",
+    "pageBody": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "View",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "assets/GUI/background.png",
+        "_large": "assets/GUI/background.png",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundSize": "cover",
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundPosition": "fixed"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "assets/GUI/background.png",
+          "_large": "assets/GUI/background.png",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundSize": "",
+          "_backgroundRepeat": "",
+          "_backgroundPosition": ""
+        },
+        "_minimumHeights": {
+          "_xlarge": 0,
+          "_large": 0,
+          "_medium": 0,
+          "_small": 0
+        }
+      }
+    }
+  },
+
+  {
+    "_id": "co-1-intro",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "Introduction",
+    "displayTitle": "Introduction",
+    "body": "",
+    "pageBody": "",
+    "instruction": "",
+    "_isOptional": true,
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "View",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "assets/GUI/background.png",
+        "_large": "assets/GUI/background.png",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundSize": "cover",
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundPosition": "fixed"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "assets/GUI/background.png",
+          "_large": "assets/GUI/background.png",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundSize": "",
+          "_backgroundRepeat": "",
+          "_backgroundPosition": ""
+        },
+        "_minimumHeights": {
+          "_xlarge": 0,
+          "_large": 0,
+          "_medium": 0,
+          "_small": 0
+        }
+      }
+    }
+  },
+  {
+    "_id": "co-2-ch1",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "Chapter 1",
+    "displayTitle": "Chapter 1: Current IgA Nephropathy Treatments",
+    "body": "",
+    "pageBody": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "View",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": true
+    },
+    "_vanilla": {
+     
+      "_backgroundStyles": {
+        "_backgroundSize": "cover",
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundPosition": "fixed"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "assets/GUI/background.png",
+          "_large": "assets/GUI/background.png",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundSize": "",
+          "_backgroundRepeat": "",
+          "_backgroundPosition": ""
+        },
+        "_minimumHeights": {
+          "_xlarge": 0,
+          "_large": 0,
+          "_medium": 0,
+          "_small": 0
+        }
+      }
+    }
+  },
+  {
+    "_id": "co-3-ch2",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "Chapter ",
+    "displayTitle": "Chapter 2: Dialysis and Kidney Transplantation",
+    "body": "",
+    "pageBody": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "View",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "assets/GUI/background.png",
+        "_large": "assets/GUI/background.png",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundSize": "cover",
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundPosition": "fixed"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "assets/GUI/background.png",
+          "_large": "assets/GUI/background.png",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundSize": "",
+          "_backgroundRepeat": "",
+          "_backgroundPosition": ""
+        },
+        "_minimumHeights": {
+          "_xlarge": 0,
+          "_large": 0,
+          "_medium": 0,
+          "_small": 0
+        }
+      }
+    }
+  },
+
+    {
+    "_id": "co-glo",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "Glossary",
+    "displayTitle": "Glossary",
+    "body": "",
+    "pageBody": "",
+    "_isOptional": true,
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "View",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "assets/GUI/background.png",
+        "_large": "assets/GUI/background.png",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundSize": "cover",
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundPosition": "fixed"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "assets/GUI/background.png",
+          "_large": "assets/GUI/background.png",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundSize": "",
+          "_backgroundRepeat": "",
+          "_backgroundPosition": ""
+        },
+        "_minimumHeights": {
+          "_xlarge": 0,
+          "_large": 0,
+          "_medium": 0,
+          "_small": 0
+        }
+      }
+    }
+  },
+
+  {
+    "_id": "co-ref",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "References",
+    "displayTitle": "References",
+    "body": "",
+    "pageBody": "",
+    "_isOptional": true,
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "View",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "assets/GUI/background.png",
+        "_large": "assets/GUI/background.png",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundSize": "cover",
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundPosition": "fixed"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "assets/GUI/background.png",
+          "_large": "assets/GUI/background.png",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundSize": "",
+          "_backgroundRepeat": "",
+          "_backgroundPosition": ""
+        },
+        "_minimumHeights": {
+          "_xlarge": 0,
+          "_large": 0,
+          "_medium": 0,
+          "_small": 0
+        }
+      }
+    }
+  },
+
+  {
+    "_id": "co-congo",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "Congratulations",
+    "displayTitle": "Congratulations",
+    "body": "",
+    "pageBody": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "View",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": true
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "assets/GUI/background.png",
+        "_large": "assets/GUI/background.png",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundSize": "cover",
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundPosition": "fixed"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "assets/GUI/background.png",
+          "_large": "assets/GUI/background.png",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundSize": "",
+          "_backgroundRepeat": "",
+          "_backgroundPosition": ""
+        },
+        "_minimumHeights": {
+          "_xlarge": 0,
+          "_large": 0,
+          "_medium": 0,
+          "_small": 0
+        }
+      }
+    }
+  }
+
+
+
+
+
+  
+]

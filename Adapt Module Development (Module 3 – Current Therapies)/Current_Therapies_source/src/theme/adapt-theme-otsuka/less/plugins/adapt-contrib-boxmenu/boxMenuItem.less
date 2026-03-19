@@ -1,0 +1,81 @@
+.boxmenu-item {
+  display: flex;
+  
+  
+  &__inner {
+    width: 100%;
+    margin: 0 @menu-item-padding-hoz @menu-item-padding-ver;
+    padding: 1rem;
+    background-color: @menu-item;
+    color: @menu-item-inverted;
+    // border: 1px solid @menu-item-border-color;
+    border-radius: @item-border-radius;
+  }
+
+  &__image-container {
+    margin-bottom: @menu-item-image-margin;
+  }
+
+  &__title {
+    margin-bottom: @menu-item-title-margin;
+    .menu-item-title;
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  &__body {
+    margin-bottom: @menu-item-body-margin;
+    .menu-item-body;
+  }
+
+  &__body a {
+    .link-text;
+  }
+
+  &__duration {
+    margin-bottom: @menu-item-duration-margin;
+    .menu-item-body;
+  }
+
+  &__progress {
+    margin-top: 1rem;
+    display: block;
+  }
+
+  &__button-container {
+    display: flex;
+    align-items: center;
+  }
+
+  &__button {
+    background-color: @menu-item-btn-color;
+    color: @menu-item-btn-color-inverted;
+    // border: solid @primary;
+
+    .no-touch &:not(.is-disabled):not(.is-locked):hover {
+      background-color: @menu-item-btn-color-hover;      
+      .transition(background-color @duration ease-in, color @duration ease-in;);
+    }
+  }
+
+  &__button.is-locked,
+  &__button.is-disabled {
+    background-color: @disabled;
+    color: white;
+  }
+
+  &__status {
+    margin-left: @menu-item-status-margin;
+  }
+
+  &.has-img-zoom &__image-container {
+    .img-zoom();
+  }
+  &__details-inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}

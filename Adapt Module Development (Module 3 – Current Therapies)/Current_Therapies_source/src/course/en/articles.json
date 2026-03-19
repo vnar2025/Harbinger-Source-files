@@ -1,0 +1,388 @@
+[
+
+  {
+    "_id": "a-95",
+    "_parentId": "co-how-to",
+    "_type": "article",
+    "_classes": "",
+    "title": "how-to",
+    "_layout": "full",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-96-4",
+    "_parentId": "co-how-to",
+    "_type": "article",
+    "_classes": "",
+    "title": "how-to",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-97",
+    "_parentId": "co-how-to",
+    "_type": "article",
+    "_classes": "",
+    "title": "how-to",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-98",
+    "_parentId": "co-how-to",
+    "_type": "article",
+    "_classes": "",
+    "title": "how-to",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-99",
+    "_parentId": "co-how-to",
+    "_type": "article",
+    "_classes": "",
+    "title": "how-to",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-100",
+    "_parentId": "co-1-intro",
+    "_type": "article",
+    "_classes": "",
+    "title": "Welcome",
+    "displayTitle": "Welcome",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-105",
+    "_parentId": "co-1-intro",
+    "_type": "article",
+    "_classes": "",
+    "title": "Module Summary",
+    "displayTitle": "Module Summary",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-110",
+    "_parentId": "co-1-intro",
+    "_type": "article",
+    "_classes": "",
+    "title": "Module Learning Objectives",
+    "displayTitle": "Module Learning Objectives",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-115",
+    "_parentId": "co-1-intro",
+    "_type": "article",
+    "_classes": "",
+    "title": "intro_nav",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-116",
+    "_parentId": "co-2-ch1",
+    "_type": "article",
+    "_classes": "",
+    "title": "Learning Objectives",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-120",
+    "_parentId": "co-2-ch1",
+    "_type": "article",
+    "_classes": "",
+    "title": "Section 1.1: Overview of Available Treatments for IgA Nephropathy",
+    "displayTitle": "Section 1.1: Overview of Available Treatments for IgA Nephropathy",
+    "body": "",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "a-125",
+    "_parentId": "co-2-ch1",
+    "_type": "article",
+    "_classes": "",
+    "title": "Section 1.2: Available Treatments Approved for IgA Nephropathy",
+    "displayTitle": "Section 1.2: Available Treatments Approved for IgA Nephropathy",
+    "body": "",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "a-130",
+    "_parentId": "co-2-ch1",
+    "_type": "article",
+    "_classes": "",
+    "title": "a3",
+    "displayTitle": "Key Concepts",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-131",
+    "_parentId": "co-2-ch1",
+    "_type": "article",
+    "_classes": "",
+    "title": "Check Your Progress",
+    "displayTitle": "Check Your Progress",
+    "body": "",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_assessment": {
+        "_isEnabled": true,
+        "_id": "Assessment 1",
+        "_suppressMarking": false,
+        "_scoreToPass" : 80,
+        "_correctToPass": 0,
+        "_isPercentageBased" : true,
+        "_includeInTotalScore": false,
+        "_assessmentWeight": 1,
+        "_isResetOnRevisit": false,
+        "_attempts": 2,
+        "_allowResetIfPassed": false,
+        "_scrollToOnReset": false,
+        "_banks": {
+            "_isEnabled": false,
+            "_split": "2,1",
+            "_randomisation": false
+        },
+        "_randomisation": {
+            "_isEnabled": false,
+            "_blockCount": 1
+        },
+        "_questions": {
+            "_resetIncorrectOnly": true,
+            "_resetType": "hard",
+            "_comment": "For 'soft', when using trickle, please set the trickle Completion Attribute to `_isInteractionComplete'.",
+            "_canShowFeedback": true,
+            "_canShowMarking": false,
+            "_canShowModelAnswer": true
+        }
+    }
+  },
+  {
+    "_id": "a-132",
+    "_parentId": "co-2-ch1",
+    "_type": "article",
+    "_classes": "",
+    "title": "Results",
+    "displayTitle": "Results",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-165",
+    "_parentId": "co-2-ch1",
+    "_type": "article",
+    "_classes": "",
+    "title": "navigation",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-168",
+    "_parentId": "co-3-ch2",
+    "_type": "article",
+    "_classes": "",
+    "title": "Learning Objectives",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-170",
+    "_parentId": "co-3-ch2",
+    "_type": "article",
+    "_classes": "",
+    "title": "Section 2.1: Types of Dialysis",
+    "displayTitle": "Section 2.1: Types of Dialysis",
+    "body": "",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "a-175",
+    "_parentId": "co-3-ch2",
+    "_type": "article",
+    "_classes": "",
+    "title": "Section 2.2: Kidney Transplantation",
+    "displayTitle": "Section 2.2: Kidney Transplantation",
+    "body": "",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "a-180",
+    "_parentId": "co-3-ch2",
+    "_type": "article",
+    "_classes": "",
+    "title": "Key Concepts",
+    "displayTitle": "Key Concepts",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-181",
+    "_parentId": "co-3-ch2",
+    "_type": "article",
+    "_classes": "",
+    "title": "Check Your Progress",
+    "displayTitle": "Check Your Progress",
+    "body": "",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_assessment": {
+        "_isEnabled": true,
+        "_id": "Assessment 2",
+        "_suppressMarking": false,
+        "_scoreToPass" : 80,
+        "_correctToPass": 0,
+        "_isPercentageBased" : true,
+        "_includeInTotalScore": false,
+        "_assessmentWeight": 1,
+        "_isResetOnRevisit": false,
+        "_attempts": 2,
+        "_allowResetIfPassed": false,
+        "_scrollToOnReset": false,
+        "_banks": {
+            "_isEnabled": false,
+            "_split": "2,1",
+            "_randomisation": false
+        },
+        "_randomisation": {
+            "_isEnabled": false,
+            "_blockCount": 1
+        },
+        "_questions": {
+            "_resetIncorrectOnly": true,
+            "_resetType": "hard",
+            "_comment": "For 'soft', when using trickle, please set the trickle Completion Attribute to `_isInteractionComplete'.",
+            "_canShowFeedback": true,
+            "_canShowMarking": false,
+            "_canShowModelAnswer": true
+        }
+    }
+  },
+  {
+    "_id": "a-182",
+    "_parentId": "co-3-ch2",
+    "_type": "article",
+    "_classes": "",
+    "title": "Results",
+    "displayTitle": "Results",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-195",
+    "_parentId": "co-3-ch2",
+    "_type": "article",
+    "_classes": "",
+    "title": "navigation",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+
+
+  
+
+  {
+    "_id": "a3-100",
+    "_parentId": "co-ref",
+    "_type": "article",
+    "_classes": "",
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+
+  {
+    "_id": "a3-200",
+    "_parentId": "co-ref",
+    "_type": "article",
+    "_classes": "",
+    "title": "Nav",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+
+  {
+    "_id": "a4-100",
+    "_parentId": "co-glo",
+    "_type": "article",
+    "_classes": "",
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+
+  {
+    "_id": "a4-200",
+    "_parentId": "co-glo",
+    "_type": "article",
+    "_classes": "",
+    "title": "Nav",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+
+  {
+    "_id": "a5-100",
+    "_parentId": "co-congo",
+    "_type": "article",
+    "_classes": "",
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+
+  {
+    "_id": "a5-200",
+    "_parentId": "co-congo",
+    "_type": "article",
+    "_classes": "",
+    "title": "Nav",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  }
+
+
+
+  
+
+]

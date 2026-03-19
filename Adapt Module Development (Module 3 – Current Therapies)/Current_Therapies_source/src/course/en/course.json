@@ -1,0 +1,319 @@
+{
+  "_id": "course",
+  "_type": "course",
+  "_classes": "",
+  "_htmlClasses": "",
+  "title": "Current Therapies",
+  "displayTitle": "Current Therapies",
+  "description": "",
+  "body": "Sibeprenlimab Launch Curriculum",
+  "instruction": "",
+  "_lockType": "sequential",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Show correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Show your answer",
+      "ariaLabel": "Show your answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_globals": {
+    "_learnerInfo": {
+      "id": "student.name@example.org",
+      "name": "Name, Student",
+      "firstname": "Student",
+      "lastname": "Name"
+    },
+    "_accessibility": {
+      "skipNavigationText": "Skip navigation",
+      "_ariaLabels": {
+        "answeredIncorrectly": "You answered incorrectly",
+        "answeredCorrectly": "You answered correctly",
+        "selectedAnswer": "selected",
+        "unselectedAnswer": "not selected",
+        "skipNavigation": "Skip Navigation",
+        "previous": "Back",
+        "navigationDrawer": "Open course resources.",
+        "close": "Close",
+        "closeDrawer": "Close drawer",
+        "closeResources": "Close resources",
+        "drawer": "Top of side drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Completed",
+        "incomplete": "Incomplete",
+        "incorrect": "Incorrect",
+        "correct": "Correct",
+        "locked": "Locked",
+        "visited": "Visited"
+      }
+    },
+    "_extensions": {
+      "_hint": {
+        "openButtonText": "Open hint"
+      },
+      "_drawer": {
+        "_navOrder": 100
+      },
+      "_navigation": {
+        "_skipButton": {
+          "_navOrder": -100
+        },
+        "_backButton": {
+          "_navOrder": 0
+        },
+        "_spacers": [
+          {
+            "_navOrder": 0
+          }
+        ]
+      }
+    }
+  },
+  "_latestTrackingId": 911,
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": false,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "title": "Resources",
+    "description": "View resources for this course by clicking here.",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Document",
+      "media": "Media",
+      "link": "Link"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": [
+      {
+        "_type": "document",
+        "title": "Print",
+        "description": "PDF Version of the module",
+        "_link": "assets/pdf/otsky_1434_current_emerging_d8v2.pdf",
+        "filename": "otsky_1434_current_emerging_d8v2.pdf",
+        "_forceDownload": true
+      }
+    ]
+  },
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [
+      {
+        "_id": "co-05",
+        "_skipIfComplete": true,
+        "_className": ""
+      }
+    ],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_assessment": {
+    "_isPercentageBased": false,
+    "_scoreToPass": -1,
+    "_correctToPass": -1
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "component",
+    "title": "Resume?",
+    "body": "Would you like to resume the course from the location you were at last time?",
+    "_buttons": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "_BBIO": {
+    "_favIcon": {
+      "_src": ""
+    }
+  },
+  "_glossary": {
+    "_isEnabled": true,
+    "_drawerOrder": 1,
+    "title": "Glossary",
+    "description": "Select here to view the glossary for this course",
+    "clearSearch": "Clear search",
+    "searchItemsAlert": "{{filteredItems.length}} found",
+    "searchPlaceholder": "Search",
+    "searchWithInDescriptionLabel": "Search within Description",
+    "itemNotFoundMessage": "No results found",
+    "_isIndexEnabled": false,
+    "_isGroupHeadersEnabled": false,
+    "_isSearchEnabled": true,
+    "_glossaryItems": [
+      {
+        "term": "angiotensin II",
+        "description": "physiologically active form of angiotensin; raises blood pressure and stimulates production and secretion of aldosterone"
+      },
+      {
+        "term": "arthralgia",
+        "description": "pain in a joint"
+      },
+      {
+        "term": "autoimmune disease",
+        "description": "disease produced when the body's normal tolerance of the antigens on its own cells (autoantigens [AAg] or self-antigens) is disrupted"
+      },
+      {
+        "term": "chronic kidney disease (CKD)",
+        "description": "any illness in which kidney function remains diminished for at least 3 months without returning to normal"
+      },
+      {
+        "term": "complement",
+        "description": "group of proteins in the blood that play a vital role in the body's immune defenses through a cascade of interactions; components of complement are labeled C1 through C9; complement acts by directly lysing (killing) organisms; by opsonizing an antigen, thus stimulating phagocytosis; and by stimulating inflammation and the B-cell-mediated immune response"
+      },
+      {
+        "term": "complement Factor B",
+        "description": "part of the complement system that is the active protein-cleaving component of the C3 and C5 convertases"
+      },
+      {
+        "term": "corticosteroid",
+        "description": "any of several steroid hormones secreted by the cortex of the adrenal gland or manufactured synthetically for use as a drug; they are classified according to their biological activity as glucocorticoids, mineralocorticoids, and androgens"
+      },
+      {
+        "term": "dyspepsia",
+        "description": "upper abdominal discomfort, often chronic or persistent; indigestion"
+      },
+      {
+        "term": "edema",
+        "description": "swelling; local or generalized condition in which body tissues contain an excessive amount of tissue fluid in the interstitial spaces"
+      },
+      {
+        "term": "encapsulated bacteria",
+        "description": "bacteria that have polymers at the periphery of the cell wall that envelop the entire cell"
+      },
+      {
+        "term": "endothelin",
+        "description": "any of the peptides released from the lining of blood vessels that causes blood vessels to constrict and blood pressure to increase; endothelins are one of several agents involved in raising blood pressure"
+      },
+      {
+        "term": "endothelin-receptor antagonist (ERA)",
+        "description": "drug that lowers blood pressure by opposing the vasoconstricting effects of endothelins"
+      },
+      {
+        "term": "end-stage kidney disease (ESKD)",
+        "description": "stage of chronic kidney disease (kidney failure) in which the clearance of creatinine has so much decreased that the patient will not survive without renal replacement therapies (eg, dialysis or kidney transplantation)"
+      },
+      {
+        "term": "gut-associated lymphoid tissue (GALT)",
+        "description": "all the lymphoid tissue associated with the gastrointestinal tract, including the tonsils, appendix, and Peyer patches; GALT contains lymphocytes (primarily B cells) and controls microorganisms entering the body via the digestive system"
+      },
+      {
+        "term": "glomerular",
+        "description": "pertaining to the glomerulus"
+      },
+      {
+        "term": "hemodialysis",
+        "description": "clearing of urea, metabolic waste products, toxins, and excess fluid from the blood by use of an artificial kidney; procedure used to treat end-stage renal failure, transient renal failure; separates solutes by differential diffusion through a cellophane membrane placed between the blood and the dialysate solution, and involves the following: 1) establishing access to the circulation; 2) anticoagulating the patient's blood to prevent extracorporeal (outside the body) clotting; 3) pumping the blood to a dialysis membrane; 4) adjusting the diffusion of solutes from the blood into a buffered dialysate solution; 5) returning the cleansed and buffered blood to the patient"
+      },
+      {
+        "term": "hepatotoxicity",
+        "description": "toxicity to the liver"
+      },
+      {
+        "term": "hyperkalemia",
+        "description": "abnormally high concentration of potassium in the blood"
+      },
+      {
+        "term": "immune complex",
+        "description": "substance formed when antibodies and serum complement attach to antigens to destroy them; these complexes circulate in the blood and may eventually attach to the walls of blood vessels, producing a local inflammatory response; immune complexes form in type III hypersensitivity reactions and are involved in the development of glomerulonephritis, serum sickness, arthritis, and vasculitis"
+      },
+      {
+        "term": "kidney transplantation",
+        "description": "grafting of a kidney from a living donor or from a deceased donor to someone with renal failure; used as the definitive form of renal replacement for patients with kidney failure"
+      },
+      {
+        "term": "mesangial",
+        "description": "pertaining to the suspensory structure of the renal glomerulus"
+      },
+      {
+        "term": "nephron",
+        "description": "structural and functional unit of the kidney, consisting of a renal (malpighian) corpuscle (a glomerulus enclosed within Bowman capsule), the proximal convoluted tubule, the loop of Henle, and the distal convoluted tubule"
+      },
+      {
+        "term": "peritoneal dialysis",
+        "description": "form of dialysis in which the lining of the peritoneal cavity is used as the dialyzing membrane; this procedure requires less-complex equipment, less-specialized personnel than hemodialysis and little or no heparin; dialyzing fluid introduced into the peritoneal cavity is left to dwell there for a specified time and then passively drained; used to treat renal failure and, less commonly, certain types of poisoning, hypothermia, or heatstroke"
+      },
+      {
+        "term": "proteinuria",
+        "description": "loss of proteins (such as albumin or globulins) in the urine; this finding may be transient and benign, or it may reflect severe underlying kidney or systemic illness"
+      },
+      {
+        "term": "renin-angiotensin-aldosterone system (RAAS)",
+        "description": "system of hormones, proteins, enzymes and reactions that regulate blood pressure and blood volume on a long-term basis"
+      },
+      {
+        "term": "Risk Evaluation and Mitigation Strategy (REMS)",
+        "description": "plan that addresses the potential hazard of any medical intervention or treatment"
+      },
+      {
+        "term": "sodium-glucose cotransporter 2 (SGLT2) inhibitor",
+        "description": "any drug, such as dapagliflozin or canagliflozin, that reduces serum blood sugars by increasing the urinary excretion of glucose"
+      },
+      {
+        "term": "urine protein-to-creatinine ratio (UPCR)",
+        "description": "urine test that measures the levels of protein and creatinine in the urine; creatinine is a waste product produced by muscle cells as they use creatine"
+      }
+    ]
+  },
+  "_boxMenu": {
+    "_graphic": {
+      "alt": "",
+      "_src": ""
+    },
+    "_backgroundImage": {
+      "_xlarge": "assets/GUI/background.png",
+      "_large": "assets/GUI/background.png",
+      "_medium": "",
+      "_small": ""
+    },
+    "_backgroundStyles": {
+      "_backgroundSize": "cover",
+      "_backgroundRepeat": "no-repeat",
+      "_backgroundPosition": "center center"
+    },
+    "_menuHeader": {
+      "_textAlignment": {
+        "_title": "left",
+        "_body": "left",
+        "_instruction": "left"
+      },
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundSize": "contain",
+        "_backgroundRepeat": "repeat",
+        "_backgroundPosition": "center center"
+      }
+    }
+  }
+}

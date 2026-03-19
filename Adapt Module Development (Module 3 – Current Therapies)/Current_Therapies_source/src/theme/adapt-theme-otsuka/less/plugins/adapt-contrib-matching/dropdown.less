@@ -1,0 +1,78 @@
+.dropdown {
+  &__btn {
+    position: relative;
+    padding: @item-padding (@icon-size + (@item-padding * 2)) @item-padding @item-padding;
+    line-height: @body-line-height;
+    text-align: left;
+    background: @btn-color;
+    color: @btn-color-inverted;
+    font-weight: bold;
+
+    .no-touch &:not(.is-disabled):not([aria-expanded="true"]):hover,
+    html:not(.a11y-disable-focusoutline) &:focus-visible {
+      background: @btn-color-hover;
+      color: @btn-color-inverted-hover;
+      .transition(background-color @duration ease-in, color @duration ease-in;);
+    }
+
+    .dir-rtl & {
+      padding-right: @item-padding;
+      padding-left: @icon-size + (@item-padding * 2);
+      text-align: right;
+    }
+  }
+
+  &__btn.is-disabled {
+    background: @disabled;
+    color: @disabled-inverted;
+  }
+
+  &__btn[aria-expanded="true"] {
+    background: @item-color-selected;
+    color: @item-color-inverted-selected;
+  }
+
+  &__icon {
+    position: absolute;
+    top: 50%;
+    right: @item-padding;
+    .transform(translateY(-50%));
+
+    .dir-rtl & {
+      right: inherit;
+      left: @item-padding;
+    }
+  }
+}
+
+.dropdown-item {
+  padding: @item-padding;
+  background: @item-color;
+  border-bottom: 1px solid @item-color-hover;
+  color: @item-color-inverted;
+
+  .no-touch &:not(:focus-visible):not([aria-selected="true"]):hover {
+    background: @item-color-hover;
+    color: @item-color-inverted-hover;
+    border:solid 1px @primary;
+    // .transition(background-color @duration ease-in, color @duration ease-in;);
+  }
+
+  &:focus-visible,
+  &[aria-selected="true"] {
+    // This code can be used to style a non-native dropdown as closely
+    // as possible to the default browser settings
+    // background-color: Highlight;
+    // background-color: -webkit-focus-ring-color;
+    // color: white;
+
+    background: @item-color-selected;
+    color: @item-color-inverted-selected;
+    border:solid 1px @primary;
+  }
+}
+button.dropdown__btn.js-dropdown-btn.is-disabled.is-selected{
+  background: @btn-color;
+  color: @btn-color-inverted;
+  border:solid 1px @primary;
+}

@@ -1,0 +1,422 @@
+.g-term {
+    text-decoration: none;
+    font-weight: 700;
+    color: @secondary ;
+    cursor: pointer;
+
+    &:hover {
+        text-decoration: none !important;
+    }
+
+}
+
+.graphic {
+    &__widget {
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__footnote {
+        font-size: .8rem;
+    }
+}
+
+.quickFact {
+    .hint {
+        &__btn:not(.is-open) {
+            &::after {
+                content: url("assets/GUI/Normal/Quick-Fact.svg");
+            }
+
+            &:hover {
+                content: url("assets/GUI/Hover/Quick-Fact.svg");
+            }
+        }
+
+
+    }
+}
+
+.zoomIn {
+    .hint {
+        &__btn:not(.is-open) {
+            &::after {
+                content: url("assets/GUI/Normal/Zoom-In.svg");
+            }
+
+            &:hover {
+                content: url("assets/GUI/Hover/Zoom-In.svg");
+            }
+        }
+
+
+    }
+}
+
+.flashForward {
+    .hint {
+        &__btn:not(.is-open) {
+            &::after {
+                content: url("assets/GUI/Normal/fast-forward.svg");
+            }
+
+            &:hover {
+                content: url("assets/GUI/Hover/fast-forward.svg");
+            }
+        }
+
+    }
+}
+.flashBack {
+    .hint {
+        &__btn:not(.is-open) {
+            &::after {
+                content: url("assets/GUI/Normal/flash-back.svg");
+            }
+
+            &:hover {
+                content: url("assets/GUI/Hover/flash-back.svg");
+            }
+        }
+
+    }
+}
+
+.hotgraphic__pin {
+    &.is-visited:not(:hover) {
+        filter: grayscale(1);
+    }
+
+    &-image:hover {
+
+        content: url("assets/GUI/Hover/hotspot-icon.png");
+    }
+}
+
+.bottom {
+    .hint {
+        &__btn {
+            top: unset;
+            bottom: 1rem;
+        }
+
+        &__widget {
+            top: unset;
+            bottom: -12.25rem;
+        }
+    }
+
+}
+
+
+
+.no-padding {
+    .component {
+        &__inner {
+            padding: 0;
+        }
+    }
+}
+
+.caption {
+    font-size: .75rem;
+}
+
+.image-title {
+    font-size: 1rem;
+    font-weight: bolder;
+}
+
+.logo {
+    background-image: url(assets/GUI/logo.png);
+    width: 6rem;
+    height: inherit;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+    // margin-left: 1rem;
+
+}
+
+.is-left {
+    padding-right: .5rem;
+}
+
+.is-right {
+    padding-left: .5rem;
+}
+
+table {
+    border: solid 1px darkgray;
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;
+
+    tr,
+    td,
+    th {
+        border: solid 1px grey;
+    }
+
+    th {
+        background-color: @secondary !important;
+        color: white !important;
+        font-weight: 600;
+        // height: 5rem;
+        padding: .6rem;
+    }
+
+    td:nth-child(even) {
+        background-color: @sixth;
+    }
+
+    td{
+        padding: 1rem;
+        line-height: 1.2rem;
+    }
+
+}
+
+.glossary {
+    table {
+        td:first-child {
+            text-align: left;
+        }
+    }
+}
+
+ul {
+    ul {
+
+        list-style-type: "– ";
+
+        ul {
+            list-style-type: "┄ ";
+        }
+
+
+    }
+    td {
+            ul {
+
+        list-style-type: disc;
+
+            ul {
+                list-style-type: "– ";
+            }
+
+
+        }
+    }
+}
+
+::marker {
+    color: @secondary;
+}
+
+.subhead {
+    background: @fourth !important;
+}
+
+.pagenav {
+    &__instruction {
+        font-size: .9rem;
+        font-style: italic;
+        font-weight: 700;
+        text-align: center;
+    }
+}
+
+.tabs {
+    &__widget {
+        flex-direction: column;
+    }
+}
+
+.padding-top {
+    padding-top: 1.5rem;
+}
+
+.margin-bottom {
+    margin-bottom: 2rem;
+}
+
+.margin-bottom {
+    &_1 {
+        margin-bottom: 1rem;
+    }
+
+}
+
+.custom-slider {
+
+    width: 100%;
+}
+
+ol,
+ul {
+    word-wrap: break-word;
+}
+
+.devtools {
+    &__nav-btn {
+        opacity: 0;
+    }
+}
+
+.top-5 {
+    .hint__btn {
+        top: -5rem;
+    }
+}
+
+.help {
+    align-self: center;
+    font-weight: bold;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    column-gap: 1.5rem;
+    justify-content: space-between;
+
+    .sample-grid {
+        height: 200px;
+        text-align: center;
+        align-content: center;
+        background-color: lightgray;
+    }
+
+    &__column {
+        &-12 {
+            grid-column: span 12 !important;
+        }
+
+        &-8 {
+            grid-column: span 8 !important;
+        }
+
+        &-6 {
+            grid-column: span 6 !important;
+        }
+
+        &-4 {
+            grid-column: span 4 !important;
+        }
+
+        &-3 {
+            grid-column: span 3 !important;
+        }
+
+        &-2 {
+            grid-column: span 2 !important;
+        }
+    }
+}
+
+// .grid__column-8{
+//     width: 60% !important;
+// }
+// .grid__column-6{
+//     width: 30% !important;
+// }
+.moduleTitle {
+    display: flex;
+    align-self: center;
+    font-weight: bold;
+    margin: 0 2rem;
+}
+
+.moduleTitle::after {
+    content: "Current Therapies: Sibeprenlimab Launch Curriculum";
+    color: @primary;
+}
+
+div {
+    p:first-of-type {
+        margin-top: 0;
+    }
+}
+
+h3 {
+    margin-top: 0;
+}
+
+.spacer {
+    height: .05rem;
+    background: black;
+    margin: .5rem 0;
+}
+
+.notify__shadow {
+    background: @primary_gradient;
+    opacity: @general-opacity;
+}
+
+.citation {
+    color: red;
+    font-style: italic;
+}
+.keyTerm {
+    text-decoration: none;
+    font-weight: 700;
+    color: #1A7BA0;
+    cursor: pointer;
+}
+  
+  
+.video-small iframe {
+    max-width: 600px;
+    max-height: 360px;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+.table-title-grey {
+    color: grey; 
+    font-weight: bold;
+    font-size: 1rem !important;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.hotgraphic__image {
+    display: block;
+    max-width: 100%;
+    min-width: 430px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.videoContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.attribution{
+    position: relative;
+    display: block;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: transparent;
+    color: grey;
+    text-align: center;
+    .transform(translate3d(0,0,0));
+}
+
+.intro_section{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+   .intro_img{
+    width: 50%;
+    margin: auto;
+   }
+}
+.mcq-item__label.is-selected .mcq-item__answer-icon.is-checkbox .icon:before ,
+.mcq-item__label.is-selected .mcq-item__answer-icon.is-radio .icon:before{
+    color:@secondary
+}
+  
+  

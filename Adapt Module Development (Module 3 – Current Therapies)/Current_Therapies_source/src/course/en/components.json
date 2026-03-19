@@ -1,0 +1,2677 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "how-to-1",
+    "displayTitle": "",
+    "body": "<p>This module is divided into chapters and sections. Each chapter begins with a list of Learning Objectives (LOs) that describe what you can expect to learn in that chapter. Medical terminology is <span class=\"g-term\">highlighted in boldface type</span> and defined in the Glossary at the end of the module.</p><p>At the end of each chapter, a list of Key Concepts summarizes important points. After reading each chapter, review the Key Concepts, then complete the Check Your Progress questions and check your answers against those provided. If you are unable to answer the questions without referring to the answer guide, review the chapter before continuing your study of this module.</p><p><strong>A variety of callout boxes are located throughout this module to highlight key topics and provide additional information:</strong></p>",
+    "_id": "c-95-1",
+    "_parentId": "b-95",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_notifyAnywhere": [],
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "grid__column-8 help",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "how-to-2",
+    "displayTitle": "ZOOM IN",
+    "body": "<p>These callouts provide the learner with a more in-depth look at selected topics. All callouts are styled like this.</p>",
+    "_id": "c-96-7",
+    "_parentId": "b-96-4",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_notifyAnywhere": [],
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "grid__column-6 help",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "how-to-2",
+    "displayTitle": "",
+    "body": "",
+    "_id": "b-96-8",
+    "_parentId": "b-96-4",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_notifyAnywhere": [],
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "assets/GUI/zoom.png",
+      "small": "assets/GUI/zoom.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "grid__column-8 help",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "how-to-3",
+    "displayTitle": "FAST FORWARD / FLASH BACK",
+    "body": "<p>These callouts alert the learner to information that will be covered or has been covered in another section. All callouts are styled like this.</p>",
+    "_id": "c-97-1",
+    "_parentId": "b-97",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_notifyAnywhere": [],
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "grid__column-6 help",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "how-to-3",
+    "displayTitle": "",
+    "body": "",
+    "_id": "c-97-2",
+    "_parentId": "b-97",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_notifyAnywhere": [],
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "assets/GUI/flashback.png",
+      "small": "assets/GUI/flashback.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "grid__column-8 help",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "b-98-1",
+    "displayTitle": "QUICK FACT!",
+    "body": "<p>These callouts point out facts relevant to a topic discussed in the text. All callouts are styled like this.</p>",
+    "_id": "c-98-1",
+    "_parentId": "b-98",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_notifyAnywhere": [],
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "grid__column-6 help",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "how-to-4",
+    "displayTitle": "",
+    "body": "",
+    "_id": "c-98-2",
+    "_parentId": "b-98",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_notifyAnywhere": [],
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "assets/GUI/callout.png",
+      "small": "assets/GUI/callout.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "c-99",
+    "_parentId": "b-99",
+    "_type": "component",
+    "_component": "pageNav",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Nav",
+    "displayTitle": "",
+    "body": "<div style='font-size:.8rem'>FOR TRAINING PURPOSES ONLY. DO NOT DUPLICATE, DISTRIBUTE, OR USE IN DETAILING<br>© 2025 Otsuka America Pharmaceutical, Inc. October 2025 21US25IBE0047 <p></p></div>",
+    "instruction": "",
+    "_loopStyleComment": {
+      "allPages": "loop sequentially through all pages in course",
+      "siblings": "loop sequentially through all pages in current parent object",
+      "none": "disable previous and next buttons at start and end of the pages in the current parent object"
+    },
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "icon-controls-left",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-home'",
+        "_iconClass": "icon-home",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-up'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-right'",
+        "_iconClass": "icon-controls-right",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-cross'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_id": "c-100",
+    "_parentId": "b-100",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "flip",
+    "_layout": "full",
+    "title": "Welcome",
+    "displayTitle": "",
+    "body": "<div> <div><p>This is the Current Therapies module, which is a continuation of the treatment landscape deep dive that you completed in August. The information presented in this module will help you better understand the role of current therapies in IgA nephropathy.</p></div> </div>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-105",
+    "_parentId": "b-105",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "flip",
+    "_layout": "full",
+    "title": "Module Summary",
+    "displayTitle": "",
+    "body": "<div> <p>This module provides an overview of current therapies in IgA nephropathy. It begins with a review of currently available treatments beyond supportive therapy that are indicated for IgA nephropathy. The module concludes with a brief overview of types of dialysis and kidney transplantation.</p></div>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-110",
+    "_parentId": "b-110",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "flip",
+    "_layout": "full",
+    "title": "Module Learning Objectives",
+    "displayTitle": "",
+    "body": "<div> <div><p>Upon completion of this module, learners will be able to:</p><ul><li>Identify currently available treatments indicated for IgA nephropathy and describe the mechanism of action and adverse effects for each</li><li>Explain the role of dialysis and kidney transplantation in treatment of IgA nephropathy</li></ul></div>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-115",
+    "_parentId": "b-115",
+    "_type": "component",
+    "_component": "pageNav",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Introduction Nav",
+    "displayTitle": "",
+    "body": "<p><strong>Be sure that all callouts and interactivities are completed before moving forward.</strong></p> <p><strong>Select the progress bar at the top right of the screen for any missed interactions.</strong></p><div style='font-size:.8rem'>FOR TRAINING PURPOSES ONLY. DO NOT DUPLICATE, DISTRIBUTE, OR USE IN DETAILING<br>© 2025 Otsuka America Pharmaceutical, Inc. October 2025 21US25IBE0047 <p></p></div>",
+    "instruction": "",
+    "_loopStyleComment": {
+      "allPages": "loop sequentially through all pages in course",
+      "siblings": "loop sequentially through all pages in current parent object",
+      "none": "disable previous and next buttons at start and end of the pages in the current parent object"
+    },
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "icon-controls-left",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-home'",
+        "_iconClass": "icon-home",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-up'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-right'",
+        "_iconClass": "icon-controls-right",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-cross'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_id": "c-116",
+    "_parentId": "b-116",
+    "_type": "component",
+    "_component": "accordion",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Learning Objectives",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_comment": "setCompletionOn = inview | allItems",
+    "_setCompletionOn": "allItems",
+    "_isCenterAligned": false,
+    "_items": [
+      {
+        "title": "Learning Objectives",
+        "body": "<strong>Upon completion of this chapter, learners will be able to:</strong><ul> <li>Identify pharmacotherapies currently available for treatment of IgA nephropathy</li><li>Describe the intended use, mechanism of action, and limitations of each currently available treatment</li> </ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-120",
+    "_parentId": "b-120",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "flip",
+    "_layout": "full",
+    "title": "a1_b1_c1",
+    "displayTitle": "",
+    "body": "<p>IgA nephropathy is a progressive, <span class=\"notify g-term\" id='autoimmune'>autoimmune</span>, <span class=\"notify g-term\" id=\"ckd\">chronic kidney disease (CKD)</span> that is the most common primary <span class=\"notify g-term\" id=\"glomerular\">glomerular</span> disease globally and a main cause of <span class=\"notify g-term\" id=\"eskd\">end-stage kidney disease (ESKD)</span>. In most individuals, IgA nephropathy progresses as a result of continued inflammation and fibrosis that damage the <span class=\"notify g-term\" id=\"nephron\">nephrons</span>. Supportive therapy is the initial approach to treatment for most patients, which includes maximally tolerated <span class=\"notify g-term\" id=\"raas\">renin-angiotensin aldosterone system (RAAS)</span> inhibitors, blood pressure control, <span class=\"notify g-term\" id=\"sglt\">sodium-glucose cotransporter 2 (SGLT2) inhibitors</span>, and addressing any risk factors for cardiovascular disease. Immunosuppression with corticosteroids is also typically initiated in patients with persistent proteinuria despite supportive therapy. The overall goal of therapy is to slow disease progression and the decline of kidney function. </p> <p>Supportive therapy does not address the underlying pathophysiology of the disease, and in many patients, IgA nephropathy continues to progress despite use of supportive and immunosuppressive treatments. There are several treatments available that are specifically approved for use in IgA nephropathy, which are discussed next.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_hint": {
+        "_isEnabled": true,
+        "title": "FLASH BACK",
+        "altTitle": "",
+        "body": "<p></p><p>Recall from <i>What is IgA Nephropathy?</i> that disease progression to more severe kidney disease is common in IgA nephropathy, with most patients developing kidney failure within 10 to 15 years of diagnosis, regardless of age of onset. Virtually all patients are at risk of developing kidney failure in their lifetimes. Kidney transplantation is the option of choice for patients needing renal replacement therapy. </p><p>IgA nephropathy can subsequently develop in the grafted kidney, occurring at a rate of approximately 50% at 10 years, but leads to ESKD in only about 5% of those patients.</p>",
+        "_imageAlignment": "right",
+        "_graphic": {
+            "_src": "",
+            "alt": "",
+            "attribution": ""
+        },
+        "_button": {
+            "_iconClass": "icon-hint-flash-back",
+            "_alignIconRight": false,
+            "text": "",
+            "ariaLabel": ""
+        }
+    },
+    "_notifyAnywhere": [
+      {
+        "id": "autoimmune",
+        "title": "autoimmune disease",
+        "body": "disease produced when the body's normal tolerance of the antigens on its own cells (autoantigens [AAg] or self-antigens) is disrupted"
+      },
+      {
+        "id": "ckd",
+        "title": "chronic kidney disease (CKD)",
+        "body": "any illness in which kidney function remains diminished for at least 3 months without returning to normal"
+      },
+      {
+        "id": "glomerular",
+        "title": "glomerular",
+        "body": "pertaining to the glomerulus"
+      },
+      {
+        "id": "eskd",
+        "title": "end-stage kidney disease (ESKD)",
+        "body": "stage of chronic kidney disease (kidney failure) in which the clearance of creatinine has so much decreased that the patient will not survive without renal replacement therapies (eg, dialysis or kidney transplantation)"
+      },
+      {
+        "id": "nephron",
+        "title": "nephron",
+        "body": "structural and functional unit of the kidney, consisting of a renal (malpighian) corpuscle (a glomerulus enclosed within Bowman capsule), the proximal convoluted tubule, the loop of Henle, and the distal convoluted tubule"
+      },
+      {
+        "id": "raas",
+        "title": "renin-angiotensin aldosterone system (RAAS)",
+        "body": "system of hormones, proteins, enzymes and reactions that regulate blood pressure and blood volume on a long-term basis"
+      },
+      {
+        "id": "sglt",
+        "title": "sodium-glucose cotransporter 2 (SGLT2) inhibitor",
+        "body": "any drug, such as dapagliflozin or canagliflozin, that reduces serum blood sugars by increasing the urinary excretion of glucose"
+      }
+    ]
+  },
+  {
+    "_id": "c-122",
+    "_parentId": "b-122",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "flip",
+    "_layout": "full",
+    "title": "a1_b1_c1",
+    "displayTitle": "",
+    "body": "<p>As of September 2025, there are 4 pharmacotherapies specifically approved for use in IgA nephropathy (<strong>Figure 1-1</strong>).</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-125",
+    "_parentId": "b-125",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "full",
+    "title": "a2_b1_c1",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "Figure 1-1: Introduction of Pharmacotherapies for IgA Nephropathy",
+      "longdescription": "",
+      "large": "assets/images/figure_1_1.png",
+      "small": "assets/images/figure_1_1.png",
+      "attribution": "Figure 1-1: Introduction of Pharmacotherapies for IgA Nephropathy",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_graphicExpand": {
+    "_isEnabled": true,
+    "_button": {
+      "buttonText": "",
+      "ariaLabel": "",
+      "iconClass": "graphic-expand-icon"
+    },
+    "_selector": ""
+    }
+  },
+  {
+    "_id": "c-126",
+    "_parentId": "b-126",
+    "_type": "component",
+    "_component": "accordion",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Accordion",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_comment": "setCompletionOn = inview | allItems",
+    "_setCompletionOn": "allItems",
+    "_isCenterAligned": false,
+    "_items": [
+      {
+        "title": "Tarpeyo<sup>®</sup> (budesonide) delayed release capsules, for oral use",
+        "body": "<ul><li>Tarpeyo<sup>®</sup> is indicated to reduce the loss of kidney function in adults with primary IgA nephropathy who are at risk for disease progression.</li><li>Tarpeyo<sup>®</sup> was granted accelerated approval for the treatment of IgA nephropathy in 2021 and standard approval in December 2023.</li><li>Tarpeyo<sup>®</sup> is marketed as Nefecon<sup>®</sup> in Asia, including China, Taiwan, and Singapore, and as Kinpeygo<sup>®</sup> in Europe.</li><li>Budesonide is a potent <span class=\"notify g-term\" id=\"corticosteroid\">corticosteroid</span> that targets mucosal B cells in the distal ileum and proximal colon, where <span class=\"notify g-term\" id=\"galt\">gut-associated lymphoid tissue (GALT)</span> plays a key role in the pathogenesis of IgA nephropathy.</li><li>Corticosteroids such as Tarpeyo<sup>®</sup> influence B-cell numbers and activity through their anti-inflammatory and immunosuppressive properties at the glucocorticoid receptor. However, the extent to which the effectiveness of Tarpeyo<sup>®</sup> is driven by localized action in the ileum versus systemic effects remains uncertain.</li><li>The recommended dosage of Tarpeyo<sup>®</sup> is 16 mg orally once daily, in the morning at least 1 hour before a meal for a duration of 9 months. When discontinuing the treatment, the dosage must be titrated down by half (8 mg) once daily for the last 2 weeks of treatment.</li><li>In the Efficacy and Safety of Nefecon in Patients With Primary IgA (Immunoglobulin A) Nephropathy (NefIgArd) trial, a randomized, double-blind, placebo-controlled, phase 3 trial, Tarpeyo<sup>®</sup> was shown to reduce the loss of kidney function in adults with IgA nephropathy at risk of disease progression. NefIgArd was a 2-part trial that evaluated the effect of Tarpeyo<sup>®</sup> on proteinuria and kidney function (estimated glomerular filtration rate [eGFR]) in adults with biopsy-proven IgA nephropathy who had eGFR ≥35 mL/min/1.73 m<sup>2</sup>, and proteinuria (defined as either ≥1 g/day or <span class=\"notify g-term\" id=\"upcr\">urine protein-to-creatinine ratio [UPCR]</span> ≥0.8 g/g) and who were on a stable dose of maximally-tolerated RAAS inhibitor therapy. Patients were randomized 1:1 to either once-daily Tarpeyo<sup>®</sup> 16 mg or placebo; treatment duration was 9 months followed by a 2-week taper of either once-daily Tarpeyo<sup>®</sup> 8 mg or placebo. Once off treatment, patients were followed for 15 months. For the interim analysis (Part A), the primary endpoint was the ratio of UPCR (based on 24-hour urine collections) at 9 months compared to baseline from the first 199 randomized patients who completed the Month 9 visit. The primary endpoint for the final analysis (Part B) was a time-weighted average of the log ratio of eGFR at each time point over 2 years relative to baseline.</li><li>Results of the interim analysis (Part A) showed the prespecified primary endpoint was met; there was a 31% reduction in UPCR in patients treated with Tarpeyo<sup>®</sup> 16 mg once daily compared to placebo (95% confidence interval [CI]: 16% to 42% reduction; <i>P</i>=0.0001). In the final analysis (Part B) of 364 patients, the percentage change in UPCR observed at 9 months was consistent with the results of the interim analysis. The improvement seen with Tarpeyo<sup>®</sup> treatment on the eGFR was observed at Month 3 (the earliest assessment) but did not appear to increase in magnitude over 2 years. At Year 2, there was a 5.9 mL/min/1.73 m<sup>2</sup> difference in the mean change from baseline in eGFR between Tarpeyo<sup>®</sup> and placebo (95% CI: 3.3 to 8.5 mL/min/1.73 m<sup>2</sup>; <i>P</i><0.0001). While the effect on kidney function that was seen during the 9-month treatment period continued to persist beyond treatment completion, Tarpeyo<sup>®</sup> did not change the long-term rate of decline in kidney function. These clinical data are summarized in <strong>Table 1-1.</strong><br><br><strong>Table 1-1: Tarpeyo<sup>®</sup> Clinical Outcomes Summary</strong><table><tr> <th>Study Phase</th> <th>Endpoint</th> <th>Result</th> </tr> <tr> <td><strong>Interim Analysis (Part A)</strong></td> <td>UPCR Reduction (Primary Endpoint)</td> <td>31% reduction versus placebo (95% CI: 16%–42%; <i>P</i>=0.0001)</td> </tr> <tr> <td><strong>Final Analysis (Part B)</strong></td> <td>UPCR at 9 Months</td> <td>Consistent with interim results across 364 patients</td> </tr> <tr> <td><strong>Month 3 Assessment</strong></td> <td>eGFR Improvement</td> <td>Improvement observed at earliest timepoint (5.9 mL/min/1.73 m<sup>2</sup> difference in mean change from baseline in eGFR vs placebo) (95% CI: 3.3 to 8.5 mL/min/1.73 m<sup>2</sup>; <i>P</i><0.0001)</td> </tr> <tr> <td><strong>2 Year Follow-Up</strong></td> <td>eGFR Magnitude</td> <td>No further increase in magnitude</td> </tr> <tr> <td><strong>Post-Treatment Period</strong></td> <td>Kidney Function Effect (beyond 9 months of treatment)</td> <td>Effect persisted beyond treatment</td> </tr> <tr> <td><strong>Long-Term Decline</strong></td> <td>eGFR Trajectory</td> <td>No change in long-term rate of decline</td> </tr> </table><br></li><li>In addition to adverse reactions associated with corticosteroids, the most common adverse reactions (≥5% of Tarpeyo<sup>®</sup>-treated patients and ≥2% than placebo) are peripheral <span class=\"notify g-term\" id=\"edema\">edema</span>, hypertension, muscle spasms, acne, headache, upper respiratory tract infection, face edema, weight gain, <span class=\"notify g-term\" id=\"dyspepsia\">dyspepsia</span>, dermatitis, <span class=\"notify g-term\" id=\"arthralgia\">arthralgia</span>, and increased white blood cell count.</li><li>Tarpeyo<sup>®</sup> is manufactured by Calliditas Therapeutics AB.</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Vanrafia<sup>™</sup> (atrasentan) tablets, for oral use",
+        "body": "<ul><li>Vanrafia<sup>™</sup> is indicated to reduce proteinuria in adults with primary IgA nephropathy at risk of rapid disease progression, generally a UPCR ≥1.5 g/g. This indication was approved under accelerated approval based on reduction of proteinuria. It has not been established whether atrasentan slows kidney function decline in patients with IgA nephropathy. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial.</li><li>Vanrafia<sup>™</sup> is an <span class=\"notify g-term\" id=\"era\">endothelin receptor antagonist (ERA)</span> that targets the endothelin A (ETA) receptor.</li><li>Vanrafia<sup>™</sup> was granted accelerated approval in 2025.</li><li>Vanrafia<sup>™</sup> has a boxed warning for embryo-fetal toxicity.<ul><li>Vanrafia<sup>™</sup> is contraindicated for use in pregnant patients; it may cause major birth defects based on animal data. Exclude pregnancy prior to initiation of treatment with Vanrafia<sup>™</sup>. Advise use of effective contraception before the initiation of treatment, during treatment, and for 2 weeks after discontinuation of treatment with Vanrafia<sup>™</sup>. Stop Vanrafia<sup>™</sup> as soon as possible if the patient becomes pregnant.</li></ul></li><li>Vanrafia<sup>™</sup> is administered as a 0.75 mg tablet by mouth once daily with or without food.</li><li>Atrasentan acts by inhibiting the endothelin receptor A to exert antiproliferative, antifibrotic, and anti-inflammatory effects in IgA nephropathy.</li><li>The impact of Vanrafia<sup>™</sup> on proteinuria was evaluated in a randomized, double-blind, placebo-controlled, multicenter global study (ALIGN, NCT04573478). The trial enrolled adults with biopsy-confirmed primary IgA nephropathy, an eGFR of ≥30 mL/min/1.73 m², and urine protein levels of ≥1 g/day who were being treated with a stable dose of a maximally tolerated RAAS inhibitor.</li><li>There were 2 cohorts in the study: a main group of 340 participants and an exploratory cohort of 64 individuals who were also on a stable dose of a SGLT2 inhibitor at baseline. Exclusion criteria included chronic kidney disease due to another underlying condition in addition to IgA nephropathy or recent treatment with systemic immunosuppressants. Participants were randomly assigned (1:1) to receive either Vanrafia<sup>™</sup> 0.75 mg or placebo once daily, while maintaining RAAS inhibitor therapy throughout the trial. Rescue immunosuppressive treatment was allowed at the discretion of the investigator.</li><li>The efficacy analysis focused on the first 270 patients in the main cohort who completed the Week 36 visit. The mean baseline eGFR was 59 mL/min/1.73 m², while the geometric mean baseline UPCR was 1.5 g/g based on a 24-hour urine collection. Furthermore, 15% of participants had proteinuria exceeding 3.5 g/day.</li><li>Results from ALIGN showed that atrasentan treatment led to a significant and clinically meaningful reduction in proteinuria as measured by the change from baseline to Week 36 in the UCPR as compared to placebo in patients with IgA nephropathy. At Week 36, patients treated with Vanrafia<sup>™</sup>  experienced a 38% reduction in urine protein-to-creatinine ratio (UPCR) from baseline, compared to a 3% reduction observed in the placebo group. When analyzed on a relative scale, Vanrafia<sup>™</sup> demonstrated a 36% greater reduction in UPCR versus placebo, with a 95% confidence interval of 26% to 45%, and a p-value of less than 0.0001, indicating statistical significance. These clinical data are summarized in <strong>Table 1-2.</strong><br><br><strong>Table 1-2: Vanrafia<sup>®</sup> Clinical Outcome Summary</strong><table><tr><th>Parameter</th><th>Details</th></tr><tr><td><strong>Analysis Population</strong></td><td>First 270 patients in main cohort who completed Week 36</td></tr><tr><td><strong>Mean Baseline eGFR</strong></td><td>59 mL/min/1.73 m²</td></tr><tr><td><strong>Geometric Mean Baseline UPCR</strong></td><td>1.5 g/g (based on 24-hour urine collection)</td></tr><tr><td><strong>High Proteinuria Subgroup</strong></td><td>15% had proteinuria >3.5 g/day</td></tr><tr><td><strong>Primary Endpoint</strong></td><td><ul><li>Percent Reduction in UPCR (95% CI) at Week 36 relative to baseline: 38% vs 3%</li><li>Versus placebo: Percent reduction in UPCR (95% CI) at Week 36 relative to baseline compared on a relative scale: 36% (26%, 45%) < 0.0001</li></ul></td></tr><tr><td><strong>Key Outcome</strong></td><td>Atrasentan (Vanrafia<sup>™</sup>) significantly reduced proteinuria vs. placebo</td></tr></table><br></li><li>Common adverse events (≥5%) are peripheral edema and anemia.</li><li>Vanrafia<sup>™</sup> is manufactured by Novartis.</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Filspari<sup>®</sup> (sparsentan) tablets, for oral use",
+        "body": "<ul><li>Filspari<sup>®</sup> is a dual endothelin and angiotensin II receptor antagonist indicated to slow kidney function decline in adults with primary IgA nephropathy who are at risk for disease progression.</li><li>Filspari<sup>®</sup> was granted accelerated approval in 2023 and standard approval in 2024.</li><li>Filspari<sup>®</sup> has a boxed warning for hepatotoxicity and embryo-fetal toxicity.<ul><li><i>Because of the risks of hepatotoxicity and birth defects, Filspari<sup>®</sup> is available only through a restricted program called the Filspari<sup>®</sup> REMS. Under the Filspari<sup>®</sup> REMS, prescribers, patients, and pharmacies must enroll in the program.</i></li><li><i><span class=\"notify g-term\" id=\"hepatotoxicity\">Hepatotoxicity</span></i><ul><li><i>Some ERAs have caused elevations of aminotransferases, hepatotoxicity, and liver failure. In clinical studies, elevations in aminotransferases (ALT or AST) of at least 3 times the upper limit of normal (ULN) have been observed in up to 3.5% of Filspari<sup>®</sup>-treated patients, including cases confirmed with rechallenge. Measure transaminases and bilirubin before initiating treatment and then every 3 months during treatment. Interrupt treatment and closely monitor patients who develop aminotransferase elevations more than 3 times ULN [see Dosage and Administration]. Filspari<sup>®</sup> should generally be avoided in patients with elevated aminotransferases (>3 times ULN) at baseline because monitoring for hepatotoxicity may be more difficult and these patients may be at increased risk for serious hepatotoxicity.</i></li></ul></li><li><i>Embryo-Fetal Toxicity</i><ul><li><i>Filspari<sup>®</sup> is contraindicated for use during pregnancy because it may cause fetal harm if used by pregnant patients. Therefore, in patients who can become pregnant, exclude pregnancy prior to initiation of treatment, during treatment, and 2 weeks after discontinuation of treatment with Filspari<sup>®</sup>. When pregnancy is detected, discontinue Filspari<sup>®</sup> as soon as possible. </i></li></ul></li></ul></li><li>For all patients, Filspari<sup>®</sup> is available only through a restricted program under a <span class=\"notify g-term\" id=\"rems\">Risk Evaluation and Mitigation Strategy (REMS)</span> called the Filspari<sup>®</sup> REMS because of the risk of hepatotoxicity. Important requirements of the Filspari<sup>®</sup> REMS include the following: Prescribers must be certified with the Filspari<sup>®</sup> REMS by enrolling and completing training. All patients must enroll in the Filspari<sup>®</sup> REMS prior to initiating treatment and comply with monitoring requirements. Pharmacies that dispense Filspari<sup>®</sup> must be certified with the Filspari<sup>®</sup> REMS and must dispense only to patients who are authorized to receive Filspari<sup>®</sup>.</li><li>Prior to initiation of Filspari<sup>®</sup>, RAAS inhibitors and ERAs must be discontinued. Filspari<sup>®</sup> should be initiated at 200 mg orally once daily. After 14 days, the dose is increased to 400 mg once daily, as tolerated. When resuming Filspari<sup>®</sup> after an interruption, re-titration should be considered.</li><li>Sparsentan inhibits both endothelin and angiotensin II type 1. Endothelin 1 and angiotensin II are thought to contribute to the pathogenesis of IgA nephropathy via the endothelin type A receptor and the angiotension II type 1 receptor, respectively.</li><li>The effect of Filspari<sup>®</sup> on proteinuria and kidney function (eGFR) was assessed in PROTECT, a randomized, double-blind, active-controlled, multicenter, global study (NCT03762850) in adults with biopsy-proven primary IgA nephropathy, eGFR ≥30 mL/min/1.73 m<sup>2</sup>, and total urine protein ≥1.0 g/day. Patients were on a stable dose of maximally-tolerated RAAS inhibitor treatment. Patients enrolled in PROTECT were randomized  in a 1:1 ratio to either Filspari<sup>®</sup> (400 mg once daily following 200 mg once daily for 14 days) or irbesartan (300 mg once daily following 150 mg once daily for 14 days). Rescue immunosuppressive treatment could be administered at the discretion of the investigator during the trial. To be included patients had to be willing to undergo a change in ACE inhibitor and/or ARB and anti-hypertensive medications because concomitant use of sodium glucose cotransporter-2 (SGLT2) inhibitors, other RAS inhibitors, and aldosterone blockers was prohibited.</li><li>The primary efficacy endpoint for the interim analysis of PROTECT was the change from baseline in UPCR at Week 36 based on the first 281 randomized patients who were seen at the Week 36 visit. For the final analysis, the key secondary efficacy endpoint was the rate of change in eGFR over a 110-week period following the initiation of randomized therapy.</li><li>Results showed the prespecified primary endpoint of relative change from baseline in UPCR at Week 36 was met; the interim analysis showed a 45% decrease in UPCR at Week 36 with Filspari<sup>®</sup> treatment compared to a 15% reduction for patients treated with irbesartan. This resulted in a 35% reduction in the ratio of mean UPCR with Filspari<sup>®</sup> compared to irbesartan (95% CI: 23% to 45% reduction; <i>P</i><0.0001). In the final analysis (n=404 randomized patients), the treatment effects in UPCR observed at Week 36 and Week 110 were consistent with the results obtained at the interim analysis. Results of the final analysis of 404 randomized patients showed that Filspari<sup>®</sup> treatment reduced the rate of decline in kidney function from baseline to Week 110 compared to irbesartan; the mean eGFR slope from baseline to Week 110 was −3.0 mL/min/1.73 m<sup>2</sup> per year for Filspari<sup>®</sup> and -4.2 mL/min/1.73 m<sup>2</sup> per year for irbesartan, which translated to a treatment effect of 1.2 mL/min/1.73 m<sup>2</sup> per year (95% CI: 0.2 to 2.1; <i>P</i>=0.0168). These clinical data are summarized in <strong>Table 1-3.</strong><br><br><strong>Table 1-3: Filspari<sup>®</sup> Clinical Outcomes Summary.</strong><table><tr><th>Parameter</th><th>Filspari<sup>®</sup></th><th>Irbesartan</th><th>Treatment Effect</th></tr><tr><td><strong>UPCR Reduction at Week 36 (Interim)</strong></td><td>45% decrease</td><td>15% decrease</td><td>35% relative reduction (95% CI: 23–45%; <i>P</i><0.0001)</td></tr><tr><td><strong>Consistency Over Time</strong></td><td>Effects consistent at Week 36 & Week 110</td><td>—</td><td>—</td></tr><tr><td><strong>Final Analysis Population</strong></td><td colspan=\"2\">404 randomized patients</td><td>—</td></tr><tr><td><strong>eGFR Slope (Baseline to Week 110)</strong></td><td>−3.0 mL/min/1.73 m²/year</td><td>−4.2 mL/min/1.73 m²/year</td><td>1.2 mL/min/1.73 m²/year (95% CI: 0.2–2.1; <i>P</i>=0.0168)</td></tr></table><br></li><li>Filspari<sup>®</sup> has Warnings and Precautions for: <ul><li>Hypotension</li><li>Acute kidney injury</li><li><span class=\"notify g-term\" id=\"hyperkalemia\">Hyperkalemia</span></li><li>Fluid retention</li></ul></li><li>Common adverse events (≥5%) include: <ul><li>Hyperkalemia</li><li>Hypotension</li><li>Peripheral edema</li><li>Dizziness</li><li>Anemia</li><li>Acute kidney injury</li></ul></li><li>Filspari<sup>®</sup> is manufactured by Travere Therapeutics, Inc.</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Fabhalta<sup>®</sup> (iptacopan) capsules, for oral use",
+        "body": "<ul><li>Fabhalta<sup>®</sup> is a complement Factor B inhibitor indicated to reduce proteinuria in adults with primary IgA nephropathy who are at risk of rapid disease progression (eg, generally a UPCR ≥1.5 g/g). Note that this indication is approved under accelerated approval based on reduction of proteinuria. It has not been established whether Fabhalta<sup>®</sup> slows kidney function decline in patients with IgA nephropathy. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory clinical trial.</li><li>Fabhalta<sup>®</sup> was granted accelerated approval in 2024 for IgA nephropathy.</li><li>Fabhalta<sup>®</sup> has a boxed warning for serious infections caused by encapsulated bacteria and is only available through a restricted program under a REMS.<ul><li><i>Fabhalta<sup>®</sup>, a complement inhibitor, increases the risk of serious infections, especially those caused by encapsulated bacteria, such as </i>Streptococcus pneumoniae<i>,</i> Neisseria meningitidis<i>, and</i> Haemophilus influenzae <i>type b. Life-threatening and fatal infections with encapsulated bacteria have occurred in patients treated with complement inhibitors. These infections may become rapidly life-threatening or fatal if not recognized and treated early.</i><ul><li><i>Complete or update vaccination for encapsulated bacteria at least 2 weeks prior to the first dose of Fabhalta<sup>®</sup>, unless the risks of delaying therapy with Fabhalta<sup>®</sup> outweigh the risk of developing a serious infection. Comply with the most current Advisory Committee on Immunization Practices (ACIP) recommendations for vaccinations against encapsulated bacteria in patients receiving a complement inhibitor. See Warnings and Precautions for additional guidance on the management of the risk of serious infections caused by encapsulated bacteria.</i></li><li><i>Patients receiving Fabhalta<sup>®</sup> are at increased risk for invasive disease caused by encapsulated bacteria, even if they develop antibodies following vaccination. Monitor patients for early signs and symptoms of serious infections and evaluate immediately if infection is suspected.</i></li></ul></li><li><i>Because of the risk of serious infections caused by encapsulated bacteria, Fabhalta<sup>®</sup> is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called the Fabhalta<sup>®</sup> REMS.</i></li></ul></li><li>The Fabhalta<sup>®</sup> REMS program includes the following key requirements:<ul><li>Prescribers must enroll in the REMS, counsel patients about the risk of serious infections caused by <span class=\"notify g-term\" id=\"encapsulated\">encapsulated bacteria</span>, provide patients with the REMS educational materials, assess patient vaccination status for vaccines against encapsulated bacteria, and vaccinate if needed according to current recommendations 2 weeks prior to the first dose of Fabhalta<sup>®</sup>. Prescribers must also provide a prescription for antibacterial drug prophylaxis if treatment must be started urgently and the patient is not up to date with vaccines against encapsulated bacteria according to current ACIP recommendations at least 2 weeks prior to the first dose of Fabhalta<sup>®</sup>.</li><li>Pharmacies that dispense Fabhalta<sup>®</sup> must be certified in the REMS and must verify prescribers are certified.</li><li>Patients must receive counseling from the prescriber about the need to receive vaccinations against encapsulated bacteria per ACIP recommendations, the need to take antibiotics as directed by the prescriber, and the early signs and symptoms of serious infections. Patients must also be instructed to carry the Patient Safety Card with them at all times during treatment and for 2 weeks following the last dose of Fabhalta<sup>®</sup>.</li></ul></li><li>Recall from the <i>What is IgA Nephropathy?</i> module that in patients with IgA nephropathy, certain components of the alternative <span class=\"notify g-term\" id=\"complement\">complement</span> pathway, including Factor B, are found in the <span class=\"notify g-term\" id=\"mesangial\">mesangial</span> deposits of the glomeruli in the kidney and correlate with prognosis. Iptacopan acts by binding to Factor B of the alternative complement pathway and regulating the cleavage of C3, generation of downstream effectors, and the amplification of the terminal pathway. In IgA nephropathy, the deposition of Gd-IgA1-containing <span class=\"notify g-term\" id=\"immunecomplex\">immune complexes</span> in the kidney locally activates the alternative complement pathway which is thought to contribute to the pathogenesis of IgA nephropathy. By binding to Factor B, iptacopan inhibits the alternative pathway.</li><li>The recommended dosage of Fabhalta<sup>®</sup> is 200 mg orally twice daily without regard to food.</li><li>Efficacy of Fabhalta<sup>®</sup> was studied in adults with IgA nephropathy in a multicenter, randomized, placebo-controlled, double-blind study called APPLAUSE-IgAN. Patients were randomized (1:1) to either Fabhalta<sup>®</sup> 200 mg or placebo twice daily. Rescue immunosuppressive treatment could be initiated at the discretion of the investigator during the trial. Patients were required to be vaccinated against <i>Neisseria meningitidis</i> and <i>Streptococcus pneumoniae</i> and were also recommended to be vaccinated against <i>Haemophilus influenzae</i> type b. If the patient had not been previously vaccinated or if a booster was required, vaccination was administered at least 2 weeks prior to first dosing. If Fabhalta<sup>®</sup> treatment was initiated earlier than 2 weeks after vaccination, antibacterial drug prophylaxis was administered.</li><li>The efficacy analysis was based on the first 250 patients with an eGFR ≥30 mL/min/1.73 m<sup>2</sup> who had completed or discontinued the study prior to the Month 9 visit.</li><li>The primary endpoint was the percent reduction in UPCR (sampled from a 24-hour urine collection) at Month 9 relative to baseline. At Month 9, treatment with Fabhalta<sup>®</sup> resulted in a 44% reduction in urine protein-to-creatinine ratio (UPCR) from baseline (95% CI: 36% , 51%). In contrast, patients receiving placebo experienced only a 9% reduction (95%CI: 5% , 21%). When comparing Fabhalta<sup>®</sup> to placebo on a relative scale, the treatment group demonstrated a 38% greater reduction in UPCR, 95% CI (26% , 49%) and p-value<0.0001, indicating a statistically significant difference.</li><li>The treatment effect on UPCR at Month 9 (reduction from baseline) was consistent across all subgroups including age, sex, race, baseline disease characteristics (such as baseline eGFR and proteinuria levels), and the use of SGLT2 inhibitor. These clinical data are summarized in <strong>Table 1-4.</strong><br><br><table><tr><th>Parameter</th><th>Details</th></tr><tr><td><strong>Analysis Population</strong></td><td>First 250 patients with eGFR ≥30 mL/min/1.73 m² who completed or discontinued before Month 9</td></tr><tr><td><strong>Primary Endpoint</strong></td><td>Percent reduction in UPCR at Month 9 (24-hour urine collection)</td></tr><tr><td><strong>UPCR Reduction at Month 9</strong></td><td>38% reduction vs. placebo (<i>P</i><0.0001)</td></tr><tr><td><strong>Consistency Across Subgroups</strong></td><td>Effect consistent across age, sex, race, baseline eGFR/proteinuria, and SGLT2 inhibitor use</td></tr></table><br></li><li>In addition to the boxed warning about risk of serious infections, especially those caused by encapsulated bacteria, the most common adverse reactions (≥3% of Fabhalta<sup>®</sup>-treated patients and ≥2% than placebo) are upper respiratory tract infection, lipid disorder, abdominal pain, nausea, and dizziness.</li><li>Fabhalta<sup>®</sup> is manufactured by Novartis.</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_notifyAnywhere": [
+      {
+        "id": "corticosteroid",
+        "title": "corticosteroid",
+        "body": "any of several steroid hormones secreted by the cortex of the adrenal gland or manufactured synthetically for use as a drug; they are classified according to their biological activity as glucocorticoids, mineralocorticoids, and androgens"
+      },
+      {
+        "id": "galt",
+        "title": "gut-associated lymphoid tissue (GALT)",
+        "body": "all the lymphoid tissue associated with the gastrointestinal tract, including the tonsils, appendix, and Peyer patches; GALT contains lymphocytes (primarily B cells) and controls microorganisms entering the body via the digestive system"
+      },
+      {
+        "id": "upcr",
+        "title": "urine protein-to creatinine ratio (UPCR)",
+        "body": "urine test that measures the levels of protein and creatinine in the urine; creatinine is a waste product produced by muscle cells as they use creatine"
+      },
+      {
+        "id": "edema",
+        "title": "edema",
+        "body": "swelling; local or generalized condition in which body tissues contain an excessive amount of tissue fluid in the interstitial spaces"
+      },
+      {
+        "id": "dyspepsia",
+        "title": "dyspepsia",
+        "body": "upper abdominal discomfort, often chronic or persistent; indigestion"
+      },
+      {
+        "id": "arthralgia",
+        "title": "arthralgia",
+        "body": "pain in a joint"
+      },
+      {
+        "id": "era",
+        "title": "endothelin-receptor antagonist (ERA)",
+        "body": "drug that lowers blood pressure by opposing the vasoconstricting effects of endothelins"
+      },
+      {
+        "id": "hepatotoxicity",
+        "title": "hepatotoxicity",
+        "body": "toxicity to the liver"
+      },
+      {
+        "id": "rems",
+        "title": "Risk Evaluation and Mitigation Strategy (REMS)",
+        "body": "plan that addresses the potential hazard of any medical intervention or treatment"
+      },
+      {
+        "id": "hyperkalemia",
+        "title": "hyperkalemia",
+        "body": "abnormally high concentration of potassium in the blood"
+      },
+      {
+        "id": "encapsulated",
+        "title": "encapsulated bacteria",
+        "body": "bacteria that have polymers at the periphery of the cell wall that envelop the entire cell"
+      },
+      {
+        "id": "complement",
+        "title": "complement",
+        "body": "group of proteins in the blood that play a vital role in the body's immune defenses through a cascade of interactions; components of complement are labeled C1 through C9; complement acts by directly lysing (killing) organisms; by opsonizing an antigen, thus stimulating phagocytosis; and by stimulating inflammation and the B-cell-mediated immune response "
+      },
+      {
+        "id": "mesangial",
+        "title": "mesangial",
+        "body": "pertaining to the suspensory structure of the renal glomerulus"
+      },
+      {
+        "id": "immunecomplex",
+        "title": "immune complex",
+        "body": "substance formed when antibodies and serum complement attach to antigens to destroy them; these complexes circulate in the blood and may eventually attach to the walls of blood vessels, producing a local inflammatory response; immune complexes form in type III hypersensitivity reactions and are involved in the development of glomerulonephritis, serum sickness, arthritis, and vasculitis"
+      },
+      {
+        "id": "peritoneal",
+        "title": "peritoneal dialysis",
+        "body": "form of dialysis in which the lining of the peritoneal cavity is used as the dialyzing membrane; this procedure requires less-complex equipment, less-specialized personnel than hemodialysis and little or no heparin; dialyzing fluid introduced into the peritoneal cavity is left to dwell there for a specified time and then passively drained; used to treat renal failure and, less commonly, certain types of poisoning, hypothermia, or heatstroke"
+      },
+      {
+        "id": "kidneytransplant",
+        "title": "kidney transplantation",
+        "body": "grafting of a kidney from a living donor or from a deceased donor to someone with renal failure; used as the definitive form of renal replacement for patients with kidney failure"
+      }
+    ]
+  },
+  {
+    "_id": "c-126-1",
+    "_parentId": "b-126-1",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "flip",
+    "_layout": "full",
+    "title": "a1_b1_c1",
+    "displayTitle": "",
+    "body": "<p></p><p>As you recall, A Proliferation-Inducing Ligand (APRIL), a cytokine, plays a key role in promoting the production of pathogenic Gd-IgA1, which starts the 4-Hit process leading to immune complex formation in IgA nephropathy. The outcome of the 4-Hit process is kidney injury, which may lead to ESKD. <strong>Figure 1-2</strong> illustrates where each of these therapies acts on the 4-Hit process in the development of IgA nephropathy.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-127",
+    "_parentId": "b-127",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "full",
+    "title": "a2_b1_c1",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "Figure 1-2: The 4-Hit Hypothesis in the Pathogenesis of IgA Nephropathy and Sites of Actions of Approved Therapies",
+      "longdescription": "",
+      "large": "assets/images/figure_1_2.png",
+      "small": "assets/images/figure_1_2.png",
+      "attribution": "Figure 1-2: The 4-Hit Hypothesis in the Pathogenesis of IgA Nephropathy and Sites of Actions of Approved Therapies",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_graphicExpand": {
+    "_isEnabled": true,
+    "_button": {
+      "buttonText": "",
+      "ariaLabel": "",
+      "iconClass": "graphic-expand-icon"
+    },
+    "_selector": ""
+    }
+  },
+  {
+    "_id": "c-130",
+    "_parentId": "b-130",
+    "_type": "component",
+    "_component": "accordion",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Key Concepts",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_comment": "setCompletionOn = inview | allItems",
+    "_setCompletionOn": "allItems",
+    "_isCenterAligned": false,
+    "_items": [
+      {
+        "title": "Supportive Therapy and Immunosuppression",
+        "body": "<ul><li>First-line treatment for most patients with immunoglobulin A (IgA) nephropathy is supportive therapy with renin angiotensin aldosterone system (RAAS) inhibitors, control of blood pressure, and sodium-glucose cotransporter 2 (SGLT2) inhibitors. In addition, management of any cardiovascular risk factors is recommended.</li><li>Immunosuppressive therapy is typically started in patients with persistent proteinuria despite optimal supportive therapy.</li><li>Supportive therapy and immunosuppressive therapy do not modify the pathophysiology of the disease, and IgA nephropathy usually progresses.</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Tarpeyo<sup>®</sup> (budesonide) delayed release capsules, for oral use",
+        "body": "<ul><li>Tarpeyo<sup>®</sup> is a corticosteroid approved for the treatment of adults with IgA nephropathy at risk of disease progression to reduce the loss of kidney function. Tarpeyo<sup>®</sup> was granted accelerated approval for treatment of IgA nephropathy in 2021 and standard approval in 2023.</li><li>The recommended dosage of Tarpeyo<sup>®</sup> is 16 mg orally once daily, taken in the morning at least 1 hour prior to a meal. The treatment duration is 9 months. Dose reduction to 8 mg once a day is recommended for the last 2 weeks of treatment. </li><li>Tarpeyo<sup>®</sup> has been shown to reduce the loss of kidney function in adults with IgA nephropathy at risk of disease progression but did not change the long-term rate of decline in kidney function. </li><li>The most common adverse reactions (≥5% of Tarpeyo<sup>®</sup>-treated patients and ≥2% than placebo) are peripheral edema, hypertension, muscle spasms, acne, headache, upper respiratory tract infection, face edema, weight gain, dyspepsia, dermatitis, arthralgia, and increased white blood cell count.</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Vanrafia<sup>™</sup> (atrasentan) tablets, for oral use",
+        "body": "<ul><li>Vanrafia<sup>™</sup> is indicated to reduce proteinuria in adults with primary IgA nephropathy at risk of rapid disease progression, generally a urine protein-to-creatinine ratio (UPCR) ≥1.5 g/g. Note that this indication was approved under accelerated approval based on reduction of proteinuria. It has not been established whether atrasentan slows kidney function decline in patients with IgA nephropathy. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial. </li><li>Vanrafia<sup>™</sup> is an ERA that targets the endothelin A (ETA) receptor. Vanrafia<sup>™</sup> has a boxed warning for embryo-fetal toxicity. Common adverse events (≥5%) are peripheral edema and anemia.</li><li>Vanrafia<sup>™</sup> was initially approved in 2025.</li><li>Vanrafia<sup>™</sup> is given orally as a 0.75 mg tablet once a day regardless of meals.</li><li>Atrasentan acts by inhibiting the endothelin receptor A.</li><li>Common adverse events (≥5%) are peripheral edema and anemia.</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Filspari<sup>®</sup> (sparsentan)",
+        "body": "<ul><li>Filspari<sup>®</sup> is a dual endothelin and angiotensin II receptor antagonist indicated to slow kidney function decline in adults with IgA nephropathy who are at risk for disease progression.</li><li>Filspari<sup>®</sup> has a boxed warning for hepatotoxicity and embryo-fetal toxicity.</li><li>Filspari<sup>®</sup> was granted accelerated approval in 2023 and standard approval in 2024.</li><li>The recommended starting dose is 200 mg orally once daily, followed by an increase to 400 mg once daily after 14 days, if tolerated. If Filspari<sup>®</sup> treatment is interrupted, restarting treatment may require re-titration.</li><li>Sparsentan acts by blocking both endothelin and angiotensin II type 1 receptors.</li><li>Common adverse events with Filspari<sup>®</sup> (≥5%) are hyperkalemia, hypotension, peripheral edema, dizziness, anemia, and acute kidney injury.</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Fabhalta<sup>®</sup> (iptacopan) capsules, for oral use",
+        "body": "<ul><li>Fabhalta<sup>®</sup> is a complement Factor B inhibitor indicated to reduce proteinuria in adults with IgA nephropathy who are at risk of rapid disease progression (eg, generally a UPCR ≥1.5 g/g). This indication is approved under accelerated approval based on reduction of proteinuria. It has not been established whether Fabhalta<sup>®</sup> slows kidney function decline in patients with IgA nephropathy.</li><li>There is a boxed warning for Fabhalta<sup>®</sup> concerning serious infections caused by encapsulated bacteria; Fabhalta<sup>®</sup> is only available through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS).</li><li>Fabhalta<sup>®</sup> was granted accelerated approval in 2024.</li><li>Iptacopan binds to Factor B of the alternative complement pathway and regulates the cleavage of C3, generation of downstream effectors, and amplification of the terminal pathway. By binding to Factor B, iptacopan inhibits the alternative complement pathway which plays a role in the pathogenesis of IgA nephropathy.</li><li>Fabhalta<sup>®</sup> is administered orally, 200 mg twice daily with no food requirements.</li><li>Fabhalta<sup>®</sup> has been shown to reduce UPCR at Month 9 from baseline consistently across all subgroups.</li><li>The most common adverse reactions reported with Fabhalta<sup>®</sup> (≥3% of Fabhalta<sup>®</sup>-treated patients and ≥2% than placebo) are upper respiratory tract infection, lipid disorder, abdominal pain, nausea, and dizziness.</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-131",
+    "_parentId": "b-131",
+    "_type": "component",
+    "_component": "matching",
+    "_classes": "margin-bottom_1",
+    "_layout": "full",
+    "title": "Question 1",
+    "displayTitle": "",
+    "body": "<p></p><p>Match each pharmacotherapy with its indication.</p>",
+    "instruction": "Choose an option from each dropdown list and select Submit.",
+    "ariaQuestion": "",
+    "_attempts": 2,
+    "_shouldDisplayAttempts": false,
+    "_shouldResetAllAnswers": false,
+    "_isRandom": true,
+    "_isRandomQuestionOrder": false,
+    "_questionWeight": 1,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_allowOnlyUniqueAnswers": true,
+    "_hasItemScoring": false,
+    "_items": [
+      {
+        "text": "Indicated to reduce proteinuria in adults with primary IgA nephropathy who are at risk of rapid disease progression (generally UPCR ≥1.5 g/g)",
+        "_options": [
+          {
+            "text": "Vanrafia<sup>™</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Tarpeyo<sup>®</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Fabhalta<sup>®</sup>",
+            "_isCorrect": true,
+            "_score": 1
+          },
+          {
+            "text": "Filspari<sup>®</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      },
+      {
+        "text": "Indicated to slow kidney function decline in adults with primary IgA nephropathy who are at risk for disease progression",
+        "_options": [
+          {
+            "text": "Vanrafia<sup>™</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Tarpeyo<sup>®</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Fabhalta<sup>®</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Filspari<sup>®</sup>",
+            "_isCorrect": true,
+            "_score": 1
+          }
+        ]
+      },
+      {
+        "text": "Indicated for treatment of adults with primary IgA nephropathy at risk of disease progression to reduce the loss of kidney function",
+        "_options": [
+          {
+            "text": "Vanrafia<sup>™</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Tarpeyo<sup>®</sup>",
+            "_isCorrect": true,
+            "_score": 1
+          },
+          {
+            "text": "Fabhalta<sup>®</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Filspari<sup>®</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      },
+      {
+        "text": "Indicated to reduce proteinuria in adults with primary IgA nephropathy at risk of rapid disease progression, generally a UPCR ≥1.5 g/g",
+        "_options": [
+          {
+            "text": "Vanrafia<sup>™</sup>",
+            "_isCorrect": true,
+            "_score": 1
+          },
+          {
+            "text": "Tarpeyo<sup>®</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Fabhalta<sup>®</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Filspari<sup>®</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "altTitle": "Alt feedback title text",
+      "correct": "<h3>Correct!<h3>You have selected the correct response",
+      "_incorrect": {
+        "notFinal": "<h3>Incorrect</h3>Please select reset and try again.",
+        "final": "<h3>Incorrect</h3>Please review the correct answer before moving on."
+      },
+      "_partlyCorrect": {
+        "notFinal": "<h3>Incorrect</h3>Please select reset and try again.",
+        "final": "<h3>Incorrect</h3>Please review the correct answer before moving on."
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-132",
+    "_parentId": "b-132",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "margin-bottom_1",
+    "_layout": "full",
+    "title": "Question 2",
+    "displayTitle": "",
+    "body": "Which of the following treatments for IgA nephropathy was approved for IgA nephropathy in 2025?",
+    "instruction": "Choose one option then select Submit.",
+    "ariaQuestion": "",
+    "_attempts": 2,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "Tarpeyo<sup>®</sup>",
+        "altText": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Fabhalta<sup>®</sup>",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Vanrafia<sup>™</sup>",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Filspari<sup>®</sup>",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "altTitle": "Alt feedback title text",
+      "correct": "<h3>Correct!<h3>You have selected the correct response",
+      "_incorrect": {
+        "notFinal": "<h3>Incorrect</h3>Please select reset and try again.",
+        "final": "<h3>Incorrect</h3>Please review the correct answer before moving on. "
+      },
+      "_partlyCorrect": {
+        "notFinal": "<h3>Incorrect</h3>Please select reset and try again.",
+        "final": "<h3>Incorrect</h3>Please review the correct answer before moving on."
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-133",
+    "_parentId": "b-133",
+    "_type": "component",
+    "_component": "matching",
+    "_classes": "margin-bottom_1",
+    "_layout": "full",
+    "title": "Question 3",
+    "displayTitle": "",
+    "body": "<p></p><p>Match the mechanism of action for each pharmacotherapy with their descriptions.</p>",
+    "instruction": "Choose an option from each dropdown list and select Submit.",
+    "ariaQuestion": "",
+    "_attempts": 2,
+    "_shouldDisplayAttempts": false,
+    "_shouldResetAllAnswers": false,
+    "_isRandom": true,
+    "_isRandomQuestionOrder": false,
+    "_questionWeight": 1,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_allowOnlyUniqueAnswers": true,
+    "_hasItemScoring": false,
+    "_items": [
+      {
+        "text": "Inhibits both endothelin and angiotensin II type 1 receptors",
+        "_options": [
+          {
+            "text": "Tarpeyo<sup>®</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Fabhalta<sup>®</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Vanrafia<sup>™</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Filspari<sup>®</sup>",
+            "_isCorrect": true,
+            "_score": 1
+          }
+        ]
+      },
+      {
+        "text": "Modulates the effect of B cells present in the final section of the small intestine (ileum) that are responsible for the production of Gd-IgA1 antibodies implicated in IgA nephropathy",
+        "_options": [
+          {
+            "text": "Tarpeyo<sup>®</sup>",
+            "_isCorrect": true,
+            "_score": 1
+          },
+          {
+            "text": "Fabhalta<sup>®</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Vanrafia<sup>™</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Filspari<sup>®</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      },
+      {
+        "text": "Binds to Factor B of the alternative complement pathway and inhibits the alternative pathway",
+        "_options": [
+          {
+            "text": "Tarpeyo<sup>®</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Fabhalta<sup>®</sup>",
+            "_isCorrect": true,
+            "_score": 1
+          },
+          {
+            "text": "Vanrafia<sup>™</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Filspari<sup>®</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      },
+      {
+        "text": "Antagonizes the endothelin receptor A",
+        "_options": [
+          {
+            "text": "Tarpeyo<sup>®</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Fabhalta<sup>®</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Vanrafia<sup>™</sup>",
+            "_isCorrect": true,
+            "_score": 1
+          },
+          {
+            "text": "Filspari<sup>®</sup>",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "altTitle": "Alt feedback title text",
+      "correct": "<h3>Correct!<h3>You have selected the correct response",
+      "_incorrect": {
+        "notFinal": "<h3>Incorrect</h3>Please select reset and try again.",
+        "final": "<h3>Incorrect</h3>Please review the correct answer before moving on."
+      },
+      "_partlyCorrect": {
+        "notFinal": "<h3>Incorrect</h3>Please select reset and try again.",
+        "final": "<h3>Incorrect</h3>Please review the correct answer before moving on."
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-133-1",
+    "_parentId": "b-133-1",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "margin-bottom_1",
+    "_layout": "full",
+    "title": "Question 4",
+    "displayTitle": "",
+    "body": "Filspari<sup>®</sup> has a boxed warning for which of the following? Select all that apply.",
+    "instruction": "Choose one or more options then select Submit.",
+    "ariaQuestion": "",
+    "_attempts": 2,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "Adverse reactions associated with corticosteroids",
+        "altText": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Hepatotoxicity",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Embryo-fetal toxicity",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Serious infections with encapsulated bacteria",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "altTitle": "Alt feedback title text",
+      "correct": "<h3>Correct!<h3>You have selected the correct response",
+      "_incorrect": {
+        "notFinal": "<h3>Incorrect</h3>Please select reset and try again.",
+        "final": "<h3>Incorrect</h3>Please review the correct answer before moving on."
+      },
+      "_partlyCorrect": {
+        "notFinal": "<h3>Incorrect</h3>Please select reset and try again.",
+        "final": "<h3>Incorrect</h3>Please review the correct answer before moving on."
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-134",
+    "_parentId": "b-134",
+    "_type": "component",
+    "_component": "assessmentResults",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Results",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_assessmentId": "Assessment 1",
+    "_isVisibleBeforeCompletion": true,
+    "_comment": "setCompletionOn = inview | pass",
+    "_setCompletionOn": "inview",
+    "_resetType": "inherit",
+    "_retry": {
+      "button": "Retry Assessment",
+      "feedback": "",
+      "_routeToAssessment": true
+    },
+    "_completionBody": "You have finished the assessment.\u003Cbr\u003EYou scored {{{scoreAsPercent}}}% .",
+    "_bands": [
+      {
+        "_score": 0,
+        "feedbackNotFinal": "Sorry, but you didn't pass. Take some time to review the course before giving it another try.",
+        "feedback": "Your score was below 25%.",
+        "_allowRetry": true
+      },
+      {
+        "_score": 25,
+        "feedbackNotFinal": "Sorry, but you didn't pass. Up for another try?",
+        "feedback": "Your score was below 50%.",
+        "_allowRetry": true
+      },
+      {
+        "_score": 50,
+        "feedbackNotFinal": "Nice try, but you didn't pass. Want to give it another go?",
+        "feedback": "Good effort, but your score was under 75%.",
+        "_allowRetry": true
+      },
+      {
+        "_score": 80,
+        "feedback": "Great work. You passed your assessment with {{{scoreAsPercent}}}%.",
+        "_allowRetry": false,
+        "_classes": "high-score"
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-175",
+    "_parentId": "b-165",
+    "_type": "component",
+    "_component": "pageNav",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Ch 2 nav",
+    "displayTitle": "",
+    "body": "<p><strong>Be sure that all callouts and interactivities are completed before moving forward.</strong></p> <p><strong>Select the progress bar at the top right of the screen for any missed interactions.</strong></p><div style='font-size:.8rem'>FOR TRAINING PURPOSES ONLY. DO NOT DUPLICATE, DISTRIBUTE, OR USE IN DETAILING<br>© 2025 Otsuka America Pharmaceutical, Inc. October 2025 21US25IBE0047 <p></p></div>",
+    "instruction": "",
+    "_loopStyleComment": {
+      "allPages": "loop sequentially through all pages in course",
+      "siblings": "loop sequentially through all pages in current parent object",
+      "none": "disable previous and next buttons at start and end of the pages in the current parent object"
+    },
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "icon-controls-left",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-home'",
+        "_iconClass": "icon-home",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-up'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-right'",
+        "_iconClass": "icon-controls-right",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-cross'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_id": "c-178",
+    "_parentId": "b-168",
+    "_type": "component",
+    "_component": "accordion",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Learning Objectives",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_comment": "setCompletionOn = inview | allItems",
+    "_setCompletionOn": "allItems",
+    "_isCenterAligned": false,
+    "_items": [
+      {
+        "title": "Learning Objectives",
+        "body": "<strong>Upon completion of this chapter, learners will be able to:</strong><ul> <li>Identity the types of dialysis used for treatment of IgA nephropathy beyond medication</li>  <li>Describe hemodialysis</li>  <li>Explain peritoneal dialysis</li>  <li>Describe kidney transplantation</li> </ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-179",
+    "_parentId": "b-169",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "flip",
+    "_layout": "full",
+    "title": "a1_b1_c1",
+    "displayTitle": "",
+    "body": "<p>This section provides an overview of approaches beyond medication that are used to help manage the clinical manifestations of IgA nephropathy, specifically <span class=\"notify g-term\" id=\"hemodialysis\">hemodialysis</span>, <span class=\"notify g-term\" id=\"peritoneal\">peritoneal dialysis</span>, and <span class=\"notify g-term\" id=\"kidneytransplant\">kidney transplantation</span>. Recall that most patients with IgA nephropathy are at risk of developing kidney failure within 10 to 15 years of diagnosis. Hemodialysis, peritoneal dialysis, and kidney transplantation are used to manage patients with IgA nephropathy which has progressed to ESKD or kidney failure.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_notifyAnywhere": [
+      {
+        "id": "corticosteroid",
+        "title": "corticosteroid",
+        "body": "any of several steroid hormones secreted by the cortex of the adrenal gland or manufactured synthetically for use as a drug; they are classified according to their biological activity as glucocorticoids, mineralocorticoids, and androgens"
+      },
+      {
+        "id": "galt",
+        "title": "gut-associated lymphoid tissue (GALT)",
+        "body": "all the lymphoid tissue associated with the gastrointestinal tract, including the tonsils, appendix, and Peyer patches; GALT contains lymphocytes (primarily B cells) and controls microorganisms entering the body via the digestive system"
+      },
+      {
+        "id": "upcr",
+        "title": "urine protein-to creatinine ratio (UPCR)",
+        "body": "urine test that measures the levels of protein and creatinine in the urine; creatinine is a waste product produced by muscle cells as they use creatine"
+      },
+      {
+        "id": "edema",
+        "title": "edema",
+        "body": "swelling; local or generalized condition in which body tissues contain an excessive amount of tissue fluid in the interstitial spaces"
+      },
+      {
+        "id": "dyspepsia",
+        "title": "dyspepsia",
+        "body": "upper abdominal discomfort, often chronic or persistent; indigestion"
+      },
+      {
+        "id": "arthralgia",
+        "title": "arthralgia",
+        "body": "pain in a joint"
+      },
+      {
+        "id": "era",
+        "title": "endothelin-receptor antagonist (ERA)",
+        "body": "drug that lowers blood pressure by opposing the vasoconstricting effects of endothelins"
+      },
+      {
+        "id": "hepatotoxicity",
+        "title": "hepatotoxicity",
+        "body": "toxicity to the liver"
+      },
+      {
+        "id": "rems",
+        "title": "Risk Evaluation and Mitigation Strategy (REMS)",
+        "body": "plan that addresses the potential hazard of any medical intervention or treatment"
+      },
+      {
+        "id": "hyperkalemia",
+        "title": "hyperkalemia",
+        "body": "abnormally high concentration of potassium in the blood"
+      },
+      {
+        "id": "encapsulated",
+        "title": "encapsulated bacteria",
+        "body": "bacteria that have polymers at the periphery of the cell wall that envelop the entire cell"
+      },
+      {
+        "id": "complement",
+        "title": "complement",
+        "body": "group of proteins in the blood that play a vital role in the body's immune defenses through a cascade of interactions; components of complement are labeled C1 through C9; complement acts by directly lysing (killing) organisms; by opsonizing an antigen, thus stimulating phagocytosis; and by stimulating inflammation and the B-cell-mediated immune response "
+      },
+      {
+        "id": "mesangial",
+        "title": "mesangial",
+        "body": "pertaining to the suspensory structure of the renal glomerulus"
+      },
+      {
+        "id": "immunecomplex",
+        "title": "immune complex",
+        "body": "substance formed when antibodies and serum complement attach to antigens to destroy them; these complexes circulate in the blood and may eventually attach to the walls of blood vessels, producing a local inflammatory response; immune complexes form in type III hypersensitivity reactions and are involved in the development of glomerulonephritis, serum sickness, arthritis, and vasculitis"
+      },
+      {
+        "id": "hemodialysis",
+        "title": "hemodialysis",
+        "body": "clearing of urea, metabolic waste products, toxins, and excess fluid from the blood by use of an artificial kidney;  procedure used to treat end-stage renal failure, transient renal failure; separates solutes by differential diffusion through a cellophane membrane placed between the blood and the dialysate solution, and involves the following: 1) establishing access to the circulation; 2) anticoagulating the patient's blood to prevent extracorporeal (outside the body) clotting; 3) pumping the blood to a dialysis membrane; 4) adjusting the diffusion of solutes from the blood into a buffered dialysate solution; 5) returning the cleansed and buffered blood to the patient "
+      },
+      {
+        "id": "peritoneal",
+        "title": "peritoneal dialysis",
+        "body": "form of dialysis in which the lining of the peritoneal cavity is used as the dialyzing membrane; this procedure requires less-complex equipment, less-specialized personnel than hemodialysis and little or no heparin; dialyzing fluid introduced into the peritoneal cavity is left to dwell there for a specified time and then passively drained; used to treat renal failure and, less commonly, certain types of poisoning, hypothermia, or heatstroke"
+      },
+      {
+        "id": "kidneytransplant",
+        "title": "kidney transplantation",
+        "body": "grafting of a kidney from a living donor or from a deceased donor to someone with renal failure; used as the definitive form of renal replacement for patients with kidney failure"
+      }
+    ]
+  },
+  {
+    "_id": "c-180",
+    "_parentId": "b-170",
+    "_type": "component",
+    "_component": "tabs",
+    "_classes": "quickFact",
+    "_layout": "full",
+    "title": "Tabs",
+    "displayTitle": "",
+    "body": "There are 2 forms of dialysis that can help filter blood and take over the function of the kidneys: hemodialysis and peritoneal dialysis.",
+    "instruction": "",
+    "_tabLayout": "horizontal",
+    "_minHeight": "250px",
+    "_comment": "Only set min height if you want to uniform the content container size across tab items. By default, the container will display at the height of each item's content",
+    "_items": [
+      {
+        "tabTitle": "Hemodialysis",
+        "title": "",
+        "body": "<ul><li>Hemodialysis is a form of renal replacement therapy in which the patient's blood is circulated through a circuit and passed through a dialyzer. The dialyzer contains a filter that facilitates the removal of uremic toxins (such as urea and creatinine), the removal of excess fluid, and the correction of electrolyte and acid-base imbalances (<strong>Figure 3-1</strong>). <figure><img src='assets/images/figure_3_1.png' alt='Figure 3-1: Hemodialysis Process'><figcaption class='component__attribution'>Figure 3-1: Hemodialysis Process</figcaption></figure></li><li>In addition to removing wastes and extra fluid from the blood, hemodialysis helps control blood pressure and balance key minerals (eg, potassium, sodium, and calcium) in the blood.</li><li>Hemodialysis requires the creation of vascular access, typically through a minor surgical procedure. This access allows for repeated needle insertion to withdraw blood from the circulation and return it after it has been filtered.</li><li>Patients may receive hemodialysis in their homes or at a dialysis center; typically, hemodialysis at a center takes place 3 times a week for approximately 4 hours each session.</li></ul>",
+        "_classes": ""
+      },
+      {
+        "tabTitle": "Peritoneal Dialysis",
+        "title": "",
+        "body": "<ul><li>Peritoneal dialysis uses the lining of the abdominal cavity to filter blood inside body, removing wastes (<strong>Figure 3-2</strong>). <figure><img src='assets/images/figure_3_2.png' alt='Figure 3-2: Peritoneal Dialysis Process'><figcaption class='component__attribution'>Figure 3-2: Peritoneal Dialysis Process</figcaption></figure></li><li>Peritoneal dialysis accounts for an estimated 9% of all kidney replacement therapy worldwide and an estimated 11% of all dialysis.</li><li>This type of dialysis is done at home. Minor surgery is required before initiating peritoneal dialysis to place a catheter in the abdomen, which remains in place permanently.<ul><li>To begin the process, the dialysis solution empties from a bag through the catheter and into the body; the catheter can be disconnected from the bag once the bag is empty, and the patient can move around.</li><li>The dialysis solution remains inside the body for a few hours while it soaks up wastes and extra fluid.</li><li>Then the dialysis solution is drained through another tube into a drain bag and discarded. The process is restarted with a fresh bag of dialysis solution.</li><li>The process of emptying the used dialysis solution and refilling with fresh solution is called an exchange.</li></ul></li><li>Peritoneal dialysis can take 2 forms:<ul><li>Continuous ambulatory peritoneal dialysis (CAPD) takes about 30 to 40 minutes, and most individuals using CAPD require 4 exchanges per day. They also sleep with the solution in the body at night.</li><li>Automated peritoneal dialysis uses a machine called a cycler to do 3 to 5 exchanges per night during sleep. One exchange may be necessary during the day without the machine.</li><li>Some individuals need to use a combination of both CAPD and automated peritoneal dialysis.</li></ul></li><li>Dialysis does not cure kidney failure but it helps people with kidney failure feel better and continue to live their lives. Over time, kidney disease can lead to additional medical conditions, including heart disease, bone disease, arthritis, nerve damage, infertility, and malnutrition, which may occur even with dialysis.</li></ul>",
+        "_classes": ""
+      }
+    ]
+  },
+  {
+    "_id": "c-185",
+    "_parentId": "b-175",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "flip",
+    "_layout": "full",
+    "title": "a1_b1_c1",
+    "displayTitle": "",
+    "body": "<p>Peritoneal dialysis and hemodialysis are associated with risks of infection, anemia, and hypertension.</p><p>Hemodialysis-related infections can lead to access loss, bloodstream infections, and hospitalization. Acute adverse effects may occur during hemodialysis, including headache, nausea and vomiting, and cramps. These effects can interfere with adherence to dialysis schedules and negatively affect the patient’s quality of life. In addition, some more serious complications can occur, including cardiac arrhythmias, hypotension or hypertension, air embolism, bleeding, seizures, and allergic reactions. However, some of these more serious complications, such as bleeding, allergic reactions, and air embolism, are rare due to advances in equipment, and patient and staff education and training.</p><p>In peritoneal dialysis, the primary concern is peritonitis, an infection of the peritoneal lining. Peritoneal dialysis is also associated with a number of other complications. Common complications include infections at the site of catheter entry, weight gain due to the composition of the dialysis fluid, hernia due to the muscle strain associated with holding fluid in the abdomen for long periods, and gradual loss of the treatment effectiveness, sometimes necessitating a switch to hemodialysis.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-185-1",
+    "_parentId": "b-175-1",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "flip",
+    "_layout": "full",
+    "title": "a1_b1_c1",
+    "displayTitle": "",
+    "body": "<p>Kidney transplantation is a surgical procedure in which a healthy kidney from either a living or deceased donor is placed into a recipient to perform blood filtration. To reduce the risk of organ rejection, recipients are required to take lifelong immunosuppressants, which may cause adverse effects. Patients are usually added to a waiting list at a transplant center to receive a donor kidney and may need dialysis while awaiting transplantation. Unlike dialysis, a kidney transplant restores all kidney functions.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-190",
+    "_parentId": "b-180",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "full",
+    "title": "a2_b1_c1",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "OTSKY Current Emerging Infographic",
+      "longdescription": "",
+      "large": "assets/images/otsky_1434_current_emerging_inforgraphic.png",
+      "small": "assets/images/otsky_1434_current_emerging_inforgraphic.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_graphicExpand": {
+    "_isEnabled": true,
+    "_button": {
+      "buttonText": "",
+      "ariaLabel": "",
+      "iconClass": "graphic-expand-icon"
+    },
+    "_selector": ""
+    }
+  },
+  {
+    "_id": "c-191",
+    "_parentId": "b-191",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "flip",
+    "_layout": "full",
+    "title": "a1_b1_c1",
+    "displayTitle": "",
+    "body": "<p></p><p>In addition, the transplanted kidney may fail and patients can experience serious complications such as infections, lymphatic disorders, and urological, neurologic, and vascular complications.</p><p>In a kidney transplantation (<strong>Figure 3-3</strong>), the surgeon connects the transplanted kidney to blood vessels and the bladder. The blood flows through an artery into the transplanted kidney and a vein takes filtered blood out. The urine flows through a transplanted ureter to the bladder.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-195",
+    "_parentId": "b-185",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "full",
+    "title": "a2_b1_c1",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "Figure 3-3: Kidney Transplant",
+      "longdescription": "",
+      "large": "assets/images/figure_3_3.png",
+      "small": "assets/images/figure_3_3.png",
+      "attribution": "Figure 3-3: Kidney Transplant",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_graphicExpand": {
+    "_isEnabled": true,
+    "_button": {
+      "buttonText": "",
+      "ariaLabel": "",
+      "iconClass": "graphic-expand-icon"
+    },
+    "_selector": ""
+    }
+  },
+  {
+    "_id": "c-200",
+    "_parentId": "b-190",
+    "_type": "component",
+    "_component": "accordion",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Key Concepts",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_comment": "setCompletionOn = inview | allItems",
+    "_setCompletionOn": "allItems",
+    "_isCenterAligned": false,
+    "_items": [
+      {
+        "title": "Hemodialysis",
+        "body": "<ul><li>Hemodialysis partially replaces the blood filtering functions of the kidney by passing the blood through a machine outside the body to filter wastes, remove excess fluid, and balance minerals.</li><li>Surgery is required for hemodialysis to create vascular access that allows blood flow from and to the body for filtration.</li><li>Hemodialysis may be performed in the patient’s home or at a dialysis center. Sessions at a center are usually 4 hours a session, 3 times a week.</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Peritoneal Dialysis",
+        "body": "<ul><li>Instead of an external machine, the abdominal cavity lining of the body is used in peritoneal dialysis to filter blood.</li><li>Peritoneal dialysis is performed at home and surgery is required for placement of a permanent catheter in the abdomen. The peritoneal dialysis process involves attaching a bag of dialysis fluid to a catheter to empty the solution into the peritoneum, where it remains for several hours. The fluid then must be drained out through another tube and discarded. The process must be repeated with a fresh bag of dialysis solution several times a day, which is called an exchange.</li><li>Peritoneal dialysis can take 2 forms: continuous ambulatory peritoneal dialysis (CAPD) and automated peritoneal dialysis.</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Kidney Transplantation",
+        "body": "<ul><li>Surgery is required for kidney transplantation during which a healthy kidney from a living donor or a deceased donor is placed in the body to take over the functions of the failing kidney.</li><li>Patients who receive a transplanted kidney will need to take lifelong immunosuppressants to help prevent rejection of the transplant.</li><li>Those patients who need a kidney must be placed on a waiting list at a transplant center; they may need to begin dialysis while waiting for a donor kidney.</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-181",
+    "_parentId": "b-181",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "margin-bottom_1",
+    "_layout": "full",
+    "title": "Question 1",
+    "displayTitle": "",
+    "body": "Which of the following statements about options for hemodialysis is true?",
+    "instruction": "Choose one option then select Submit.",
+    "ariaQuestion": "",
+    "_attempts": 2,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "No form of hemodialysis can completely replace the function of a kidney.",
+        "altText": "",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Hemodialysis can completely replace the function of one kidney.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Peritoneal dialysis can completely replace the function of both kidneys when done on alternate days.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "The combination of hemodialysis and peritoneal dialysis completely replaces kidney function in some patients.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "altTitle": "Alt feedback title text",
+      "correct": "<h3>Correct!<h3>You have selected the correct response",
+      "_incorrect": {
+        "notFinal": "<h3>Incorrect</h3>Please select reset and try again.",
+        "final": "<h3>Incorrect</h3>Please review the correct answer before moving on."
+      },
+      "_partlyCorrect": {
+        "notFinal": "<h3>Incorrect</h3>Please select reset and try again.",
+        "final": "<h3>Incorrect</h3>Please review the correct answer before moving on."
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-182",
+    "_parentId": "b-182",
+    "_type": "component",
+    "_component": "matching",
+    "_classes": "margin-bottom_1",
+    "_layout": "full",
+    "title": "Question 2",
+    "displayTitle": "",
+    "body": "<p></p><p>Match the following options for managing kidney failure with their descriptions.</p>",
+    "instruction": "Choose an option from each dropdown list and select Submit.",
+    "ariaQuestion": "",
+    "_attempts": 2,
+    "_shouldDisplayAttempts": false,
+    "_shouldResetAllAnswers": false,
+    "_isRandom": true,
+    "_isRandomQuestionOrder": false,
+    "_questionWeight": 1,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_allowOnlyUniqueAnswers": true,
+    "_hasItemScoring": false,
+    "_items": [
+      {
+        "text": "Dialysis process that partially replaces the blood filtering functions of the kidney and involves attaching a bag of dialysis fluid to a catheter to empty the solution into the body where it remains for several hours, then draining it and repeating the process several times a day",
+        "_options": [
+          {
+            "text": "Hemodialysis",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Peritoneal dialysis",
+            "_isCorrect": true,
+            "_score": 1
+          },
+          {
+            "text": "Kidney transplant",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      },
+      {
+        "text": "This option requires taking lifelong immunosuppressants once the procedure is performed",
+        "_options": [
+          {
+            "text": "Hemodialysis",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Peritoneal dialysis",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Kidney transplant",
+            "_isCorrect": true,
+            "_score": 1
+          }
+        ]
+      },
+      {
+        "text": "Partially replaces the blood filtering functions of the kidney by passing the blood through a machine outside the body to filter wastes, remove excess fluid, and balance minerals",
+        "_options": [
+          {
+            "text": "Hemodialysis",
+            "_isCorrect": true,
+            "_score": 1
+          },
+          {
+            "text": "Peritoneal dialysis",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Kidney transplant",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "altTitle": "Alt feedback title text",
+      "correct": "<h3>Correct!<h3>You have selected the correct response",
+      "_incorrect": {
+        "notFinal": "<h3>Incorrect</h3>Please select reset and try again.",
+        "final": "<h3>Incorrect</h3>Please review the correct answer before moving on."
+      },
+      "_partlyCorrect": {
+        "notFinal": "<h3>Incorrect</h3>Please select reset and try again.",
+        "final": "<h3>Incorrect</h3>Please review the correct answer before moving on."
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-183",
+    "_parentId": "b-183",
+    "_type": "component",
+    "_component": "assessmentResults",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Results",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_assessmentId": "Assessment 2",
+    "_isVisibleBeforeCompletion": true,
+    "_comment": "setCompletionOn = inview | pass",
+    "_setCompletionOn": "inview",
+    "_resetType": "inherit",
+    "_retry": {
+      "button": "Retry Assessment",
+      "feedback": "",
+      "_routeToAssessment": true
+    },
+    "_completionBody": "You have finished the assessment.\u003Cbr\u003EYou scored {{{scoreAsPercent}}}% .",
+    "_bands": [
+      {
+        "_score": 0,
+        "feedbackNotFinal": "Sorry, but you didn't pass. Take some time to review the course before giving it another try.",
+        "feedback": "Your score was below 25%.",
+        "_allowRetry": true
+      },
+      {
+        "_score": 25,
+        "feedbackNotFinal": "Sorry, but you didn't pass. Up for another try?",
+        "feedback": "Your score was below 50%.",
+        "_allowRetry": true
+      },
+      {
+        "_score": 50,
+        "feedbackNotFinal": "Nice try, but you didn't pass. Want to give it another go?",
+        "feedback": "Good effort, but your score was under 75%.",
+        "_allowRetry": true
+      },
+      {
+        "_score": 80,
+        "feedback": "Great work. You passed your assessment with {{{scoreAsPercent}}}%.",
+        "_allowRetry": false,
+        "_classes": "high-score"
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-220",
+    "_parentId": "b-210",
+    "_type": "component",
+    "_component": "pageNav",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Introduction Nav",
+    "displayTitle": "",
+    "body": "<p><strong>Be sure that all callouts and interactivities are completed before moving forward.</strong></p> <p><strong>Select the progress bar at the top right of the screen for any missed interactions.</strong></p><div style='font-size:.8rem'>FOR TRAINING PURPOSES ONLY. DO NOT DUPLICATE, DISTRIBUTE, OR USE IN DETAILING<br>© 2025 Otsuka America Pharmaceutical, Inc. October 2025 21US25IBE0047 <p></p></div>",
+    "instruction": "",
+    "_loopStyleComment": {
+      "allPages": "loop sequentially through all pages in course",
+      "siblings": "loop sequentially through all pages in current parent object",
+      "none": "disable previous and next buttons at start and end of the pages in the current parent object"
+    },
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "icon-controls-left",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-home'",
+        "_iconClass": "icon-home",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-up'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-right'",
+        "_iconClass": "icon-controls-right",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-cross'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "",
+    "displayTitle": "",
+    "body": "<ol> <li>Agarwal R, Flythe JE. Acute complications during hemodialysis. UpToDate. Updated October 18, 2024. Accessed April 22, 2025. https://www.uptodate.com/contents/acute-complications-during-hemodialysis</li> <li>Bello AK, Okpechi IG, Osman MA, et al. Epidemiology of peritoneal dialysis outcomes. <i>Nat Rev Nephrol.</i> 2022;18(12):779-793. doi:10.1038/s41581-022-00623-7</li> <li>Caster DJ, Abner CW, Walker PD, et al. Clinicopathological characteristics of adult IgA nephropathy in the United States. <i>Kidney Int Rep.</i> 2023;8(9):1792-1800. doi:10.1016/j.ekir.2023.06.016</li> <li>Cleveland Clinic. Urine Protein Creatinine Ratio. Updated August 5, 2022. Accessed March 26, 2025. https://my.clevelandclinic.org/health/diagnostics/23933-urine-protein-creatinine-ratio</li> <li>ClinicalTrials.gov. Efficacy and safety of nefecon in patients with primary IgA (immunoglobulin A) nephropathy. ClinicalTrials.gov. Accessed May 13, 2025. https://clinicaltrials.gov/study/NCT03643965</li> <li>Coppo R. Treating IgA nephropathy: Looking at the future without forgetting the past. <i>J Clin Med.</i> 2025;14(12):4045. doi:10.3390/jcm14124045</li> <li>Filspari<sup>®</sup> (sparsentan) tablets, for oral use. Prescribing information. Travere Therapeutics, Inc.; September 2024. Accessed September 1, 2025. https://filspari.com/igan/filspari-prescribing-information.pdf</li> <li>Floege J, Rauen T, Tang SCW. Current treatment of IgA nephropathy. <i>Semin Immunopathol.</i> 2021;43(5):717-728. doi:10.1007/s00281-021-00888-3</li> <li>Habas E, Habas A, Elgamal M, et al. Common complications of hemodialysis: A clinical review. <i>Ibnosina J Med Biomed Sci.</i> 2021;13(04):161-172. doi:10.4103/ijmbs.ijmbs_62_21</li> <li>Karoui KE, Fervenza FC, De Vriese AS. Treatment of IgA nephropathy: a rapidly evolving field. <i>J Am Soc Nephrol.</i> 2024;35(1):103-116. doi:10.1681/ASN.0000000000000242</li> <li>Kidney Disease Improving Global Outcomes. KDIGO 2024 Clinical Practice Guideline for the Management of IgA Nephropathy (IgAN) and IgA Vasculitis (IgAV). August 2024. Accessed February 12, 2025. https://kdigo.org/wp-content/uploads/2024/08/KDIGO-2024-IgAN-IgAV-Guideline-Public-Review-Draft.pdf</li> <li>National Institute of Diabetes and Digestive and Kidney Disease (NIDDK). Choosing a treatment for kidney failure. Updated January 2018. Accessed March 24, 2025. https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/choosing-treatment</li> <li>National Institute of Diabetes and Digestive and Kidney Disease (NIDDK). IgA Nephropathy. Updated September 2022. Accessed March 24, 2025. https://www.niddk.nih.gov/health-information/kidney-disease/iga-nephropathy</li> <li>National Kidney Foundation. The Kidney Health Crisis: Join Our Fight for Kidney Transplants For All | National Kidney Foundation. National Kidney Foundation. April 18, 2023. Accessed September 2, 2025. https://www.kidney.org/news-stories/transplants-all-saving-lives-one-kidney-time</li> <li>NCT03762850. Travere Therapeutics, Inc. A Randomized, Multicenter, Double-Blind, Parallel-Group, Active-Control Study of the Efficacy and Safety of Sparsentan for the Treatment of Immunoglobulin A Nephropathy. clinicaltrials.gov; 2025. Accessed September 29, 2025. https://clinicaltrials.gov/study/NCT03762850</li> <li>Overview of Hemodialysis Complications. Advanced Renal Education Program. Accessed July 18, 2025. https://advancedrenaleducation.com/wparep/article/overview-of-hemodialysis-complications/</li> <li>Peritoneal dialysis. Mayo Clinic. Updated May 2, 2023. Accessed April 22, 2025. <a href='https://www.mayoclinic.org/tests-procedures/peritoneal-dialysis/about/pac-20384725' target='_blank'>https://www.mayoclinic.org/tests-procedures/peritoneal-dialysis/about/pac-20384725</a></li> <li>Pitcher D, Braddon F, Hendry B, et al. Long-term outcomes in IgA nephropathy. <i>Clin J Am Soc Nephrol.</i> 2023;18(6):727-738. doi:10.2215/CJN.0000000000000135</li> <li>Pravda M, Maor Y, Brodsky K, et al. Blood stream Infections in chronic hemodialysis patients - characteristics and outcomes. <i>BMC Nephrology.</i> 2024;25(1):3. doi:10.1186/s12882-023-03442-5 </li> <li>Rajasekaran A, Julian BA, Rizk DV. IgA nephropathy: an interesting autoimmune kidney disease. <i>Am J Med Sci.</i> 2021;361(2):176-194. doi:10.1016/j.amjms.2020.10.003</li> <li>Renin-Angiotensin-Aldosterone System (RAAS). Cleveland Clinic. Updated September 13, 2022. Accessed February 26, 2025. https://my.clevelandclinic.org/health/articles/24175-renin-angiotensin-aldosterone-system-raas</li> <li>Stewart J. Fabhalta (iptacopan) FDA Approval History. Drugs.com. Accessed September 1, 2025. https://www.drugs.com/history/fabhalta.html</li> <li>Stewart J. Filspari (sparsentan) FDA Approval History. Drugs.com. Accessed September 1, 2025. https://www.drugs.com/history/filspari.html</li> <li>Stewart J. Tarpeyo (budesonide) FDA Approval History. Drugs.com. Accessed September 1, 2025. https://www.drugs.com/history/tarpeyo.html</li> <li>Taber’s Medical Dictionary Online. Unbound Medicine. Accessed February 26, 2025. https://www.tabers.com/tabersonline/<br>Tarpeyo<sup>®</sup> (budesonide) delayed release capsules. Prescribing information. Calliditas Therapeutics AB.; June 2024. Accessed March 25, 2025. https://www.tarpeyo.com/prescribinginformation.pdf</li> <li>U.S. Food and Drug Administration. FDA approves first drug to decrease urine protein in IgA nephropathy, a rare kidney disease. August 9, 2024. Accessed August 15, 2025. https://www.fda.gov/drugs/fda-approves-first-drug-decrease-urine-protein-iga-nephropathy-rare-kidney-disease</li> <li>Vanrafia<sup>™</sup> (atrasentan) tablets, for oral use. Prescribing information. Novartis Pharmaceuticals Corporation; April 2025. Accessed April 22, 2025. https://www.novartis.com/us-en/sites/novartis_us/files/vanrafia.pdf</li> <li>Yamanaka K, Kakuta Y, Nakazawa S, Kobayashi K, Nonomura N, Kageyama S. Surgical and infectious complications following kidney transplantation: a contemporary review. <i>J Clin Med.</i> 2025;14(10):3307. doi:10.3390/jcm14103307</li> </ol>",
+    "_id": "c3-100",
+    "_parentId": "b3-100",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "c3-200",
+    "_parentId": "b3-200",
+    "_type": "component",
+    "_component": "pageNav",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Introduction Nav",
+    "displayTitle": "",
+    "body": "<div style='font-size:.8rem'>FOR TRAINING PURPOSES ONLY. DO NOT DUPLICATE, DISTRIBUTE, OR USE IN DETAILING<br>© 2025 Otsuka America Pharmaceutical, Inc. October 2025 21US25IBE0047 <p></p></div>",
+    "instruction": "",
+    "_loopStyleComment": {
+      "allPages": "loop sequentially through all pages in course",
+      "siblings": "loop sequentially through all pages in current parent object",
+      "none": "disable previous and next buttons at start and end of the pages in the current parent object"
+    },
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "icon-controls-left",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-home'",
+        "_iconClass": "icon-home",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-up'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-right'",
+        "_iconClass": "icon-controls-right",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-cross'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_id": "c4-100",
+    "_parentId": "b4-100",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "glossary",
+    "_layout": "full",
+    "title": "Glossary",
+    "displayTitle": "",
+    "body": "<table><thead><tr><th>Term</th><th>Definition</th></tr></thead><tbody><tr><td><span class=\"g-term\">angiotensin II</span></td><td>physiologically active form of angiotensin; raises blood pressure and stimulates production and secretion of aldosterone</td></tr><tr><td><span class=\"g-term\">arthralgia</span></td><td>pain in a joint</td></tr><tr><td><span class=\"g-term\">autoimmune disease</span></td><td>disease produced when the body's normal tolerance of the antigens on its own cells (autoantigens [AAg] or self-antigens) is disrupted</td></tr><tr><td><span class=\"g-term\">chronic kidney disease (CKD)</span></td><td>any illness in which kidney function remains diminished for at least 3 months without returning to normal</td></tr><tr><td><span class=\"g-term\">complement</span></td><td>group of proteins in the blood that play a vital role in the body's immune defenses through a cascade of interactions; components of complement are labeled C1 through C9; complement acts by directly lysing (killing) organisms; by opsonizing an antigen, thus stimulating phagocytosis; and by stimulating inflammation and the B-cell-mediated immune response</td></tr><tr><td><span class=\"g-term\">complement Factor B</span></td><td>part of the complement system that is the active protein-cleaving component of the C3 and C5 convertases</td></tr><tr><td><span class=\"g-term\">corticosteroid</span></td><td>any of several steroid hormones secreted by the cortex of the adrenal gland or manufactured synthetically for use as a drug; they are classified according to their biological activity as glucocorticoids, mineralocorticoids, and androgens</td></tr><tr><td><span class=\"g-term\">dyspepsia</span></td><td>upper abdominal discomfort, often chronic or persistent; indigestion</td></tr><tr><td><span class=\"g-term\">edema</span></td><td>swelling; local or generalized condition in which body tissues contain an excessive amount of tissue fluid in the interstitial spaces</td></tr><tr><td><span class=\"g-term\">encapsulated bacteria</span></td><td>bacteria that have polymers at the periphery of the cell wall that envelop the entire cell</td></tr><tr><td><span class=\"g-term\">endothelin</span></td><td>any of the peptides released from the lining of blood vessels that causes blood vessels to constrict and blood pressure to increase; endothelins are one of several agents involved in raising blood pressure</td></tr><tr><td><span class=\"g-term\">endothelin-receptor antagonist (ERA)</span></td><td>drug that lowers blood pressure by opposing the vasoconstricting effects of endothelins</td></tr><tr><td><span class=\"g-term\">end-stage kidney disease (ESKD)</span></td><td>stage of chronic kidney disease (kidney failure) in which the clearance of creatinine has so much decreased that the patient will not survive without renal replacement therapies (eg, dialysis or kidney transplantation)</td></tr><tr><td><span class=\"g-term\">gut-associated lymphoid tissue (GALT)</span></td><td>all the lymphoid tissue associated with the gastrointestinal tract, including the tonsils, appendix, and Peyer patches; GALT contains lymphocytes (primarily B cells) and controls microorganisms entering the body via the digestive system</td></tr><tr><td><span class=\"g-term\">glomerular</span></td><td>pertaining to the glomerulus</td></tr><tr><td><span class=\"g-term\">hemodialysis</span></td><td>clearing of urea, metabolic waste products, toxins, and excess fluid from the blood by use of an artificial kidney;  procedure used to treat end-stage renal failure, transient renal failure; separates solutes by differential diffusion through a cellophane membrane placed between the blood and the dialysate solution, and involves the following: 1) establishing access to the circulation; 2) anticoagulating the patient's blood to prevent extracorporeal (outside the body) clotting; 3) pumping the blood to a dialysis membrane; 4) adjusting the diffusion of solutes from the blood into a buffered dialysate solution; 5) returning the cleansed and buffered blood to the patient</td></tr><tr><td><span class=\"g-term\">hepatotoxicity</span></td><td>toxicity to the liver</td></tr><tr><td><span class=\"g-term\">hyperkalemia</span></td><td>abnormally high concentration of potassium in the blood</td></tr><tr><td><span class=\"g-term\">immune complex</span></td><td>substance formed when antibodies and serum complement attach to antigens to destroy them; these complexes circulate in the blood and may eventually attach to the walls of blood vessels, producing a local inflammatory response; immune complexes form in type III hypersensitivity reactions and are involved in the development of glomerulonephritis, serum sickness, arthritis, and vasculitis</td></tr><tr><td><span class=\"g-term\">kidney transplantation</span></td><td>grafting of a kidney from a living donor or from a deceased donor to someone with renal failure; used as the definitive form of renal replacement for patients with kidney failure</td></tr><tr><td><span class=\"g-term\">mesangial</span></td><td>pertaining to the suspensory structure of the renal glomerulus</td></tr><tr><td><span class=\"g-term\">nephron</span></td><td>structural and functional unit of the kidney, consisting of a renal (malpighian) corpuscle (a glomerulus enclosed within Bowman capsule), the proximal convoluted tubule, the loop of Henle, and the distal convoluted tubule</td></tr><tr><td><span class=\"g-term\">peritoneal dialysis</span></td><td>form of dialysis in which the lining of the peritoneal cavity is used as the dialyzing membrane; this procedure requires less-complex equipment, less-specialized personnel than hemodialysis and little or no heparin; dialyzing fluid introduced into the peritoneal cavity is left to dwell there for a specified time and then passively drained; used to treat renal failure and, less commonly, certain types of poisoning, hypothermia, or heatstroke</td></tr><tr><td><span class=\"g-term\">proteinuria</span></td><td>loss of proteins (such as albumin or globulins) in the urine; this finding may be transient and benign, or it may reflect severe underlying kidney or systemic illness</td></tr><tr><td><span class=\"g-term\">renin-angiotensin-aldosterone system (RAAS)</span></td><td>system of hormones, proteins, enzymes and reactions that regulate blood pressure and blood volume on a long-term basis</td></tr><tr><td><span class=\"g-term\">Risk Evaluation and Mitigation Strategy (REMS)</span></td><td>plan that addresses the potential hazard of any medical intervention or treatment</td></tr><tr><td><span class=\"g-term\">sodium-glucose cotransporter 2 (SGLT2) inhibitor</span></td><td>any drug, such as dapagliflozin or canagliflozin, that reduces serum blood sugars by increasing the urinary excretion of glucose</td></tr><tr><td><span class=\"g-term\">urine protein-to-creatinine ratio (UPCR)</span></td><td>urine test that measures the levels of protein and creatinine in the urine; creatinine is a waste product produced by muscle cells as they use creatine</td>    </tr>  </tbody></table>"
+  },
+  {
+    "_id": "c4-200",
+    "_parentId": "b4-200",
+    "_type": "component",
+    "_component": "pageNav",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Introduction Nav",
+    "displayTitle": "",
+    "body": "<div style='font-size:.8rem'>FOR TRAINING PURPOSES ONLY. DO NOT DUPLICATE, DISTRIBUTE, OR USE IN DETAILING<br>© 2025 Otsuka America Pharmaceutical, Inc. October 2025 21US25IBE0047 <p></p></div>",
+    "instruction": "",
+    "_loopStyleComment": {
+      "allPages": "loop sequentially through all pages in course",
+      "siblings": "loop sequentially through all pages in current parent object",
+      "none": "disable previous and next buttons at start and end of the pages in the current parent object"
+    },
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "icon-controls-left",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-home'",
+        "_iconClass": "icon-home",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-up'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-right'",
+        "_iconClass": "icon-controls-right",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-cross'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Congratulations",
+    "displayTitle": "",
+    "body": "<h4 class=\"mb-0\">You've completed <strong><span class=\"title-color\">The Module</span></strong> course. You may exit the course by clicking the “X” in the upper right of the browser window in which you viewed the course. Thank you.</h4>",
+    "_id": "c5-100",
+    "_parentId": "b5-100",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    },
+    "_hint": [],
+    "_canNotifyContent": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "c5-200",
+    "_parentId": "b5-200",
+    "_type": "component",
+    "_component": "pageNav",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Introduction Nav",
+    "displayTitle": "",
+    "body": "<div style='font-size:.8rem'>FOR TRAINING PURPOSES ONLY. DO NOT DUPLICATE, DISTRIBUTE, OR USE IN DETAILING<br>© 2025 Otsuka America Pharmaceutical, Inc. October 2025 21US25IBE0047 <p></p></div>",
+    "instruction": "",
+    "_loopStyleComment": {
+      "allPages": "loop sequentially through all pages in course",
+      "siblings": "loop sequentially through all pages in current parent object",
+      "none": "disable previous and next buttons at start and end of the pages in the current parent object"
+    },
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-left'",
+        "_iconClass": "icon-controls-left",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-home'",
+        "_iconClass": "icon-home",
+        "_alignIconRight": false,
+        "text": "",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-up'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-controls-right'",
+        "_iconClass": "icon-controls-right",
+        "_alignIconRight": true,
+        "text": "",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 1,
+        "_classes": "",
+        "_iconClassComment": "Suggested icon = 'icon-cross'",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  }
+]
